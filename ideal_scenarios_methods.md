@@ -31,6 +31,8 @@ Note:
 - **Feat Fusion**: feature fusion can be divided into traditional (**Trad**), graph-based (**Graph**) and attention-based (**Atten**) feature fusion.
 - **Loss Func**: loss function can be used for uncertainty estimation (**Uncert**) and redundancy minimization (**Redund**).
 
+▶️ Go back to [Main Page](README.md)
+
 References:
 1. [Cooper: Cooperative perception for connected autonomous vehicles based on 3d point clouds](https://arxiv.org/abs/1905.05265)
 2. [F-Cooper: Feature based cooperative perception for autonomous vehicle edge computing system using 3D point clouds](https://arxiv.org/abs/1909.06459)
