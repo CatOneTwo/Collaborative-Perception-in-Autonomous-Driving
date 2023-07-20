@@ -14,14 +14,12 @@
 | V2X-Seq [8]      | CVPR'23   | Real       | 15k       | -        | &#10004; | 2          | &#10004;   | &#10004;  | -         |  &#10004; | -         |  &#10004; |  &#10004; | [Link](https://thudair.baai.ac.cn/coop-forecast)     |
 | DeepAccident [9] | arXiv'23  | Simu       | 57K       | &#10004; | &#10004; | 1-5        | &#10004;   | &#10004;  | -         |  &#10004; |  &#10004; |  &#10004; |  &#10004; | [Link](https://deepaccident.github.io/index.html)    |
 
-Notes
+Notes:
 - Source: simulator (Simu) and real-world (Real).
 - Frame refers to annotated LiDAR-based cooperative perception frame number.
 - Supported common perception tasks: 3D object detection (OD), BEV semantic segmentation (SS), 3D object tracking (OT), motion prediction (MP).
     
-
-References
-
+References:
 1. [V2VNet: Vehicle-to-Vehicle Communication for Joint Perception and Prediction](https://arxiv.org/abs/2008.07519)
 2. [V2X-Sim: Multi-Agent Collaborative Perception Dataset and Benchmark for Autonomous Driving](https://arxiv.org/abs/2202.08449)
 3. [OPV2V: An open benchmark dataset and fusion pipeline for perception with vehicle-to-vehicle communication](https://arxiv.org/abs/2109.07644)
