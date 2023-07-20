@@ -1,7 +1,5 @@
 # A summary of large-scale collaborative perception datasets
 
-
-
 | **Dataset**      | **Venue** | **Source** | **Frame** | **V2V**  | **V2I**  | **Agents** | **Camera** | **LiDAR** | **Depth** | **OD**    | **SS**    | **OT**    | **MP**    | **Website**                                          |
 |:----------------:|:---------:|:----------:|:---------:|:--------:|:--------:|:----------:|:----------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:----------------------------------------------------:|
 | V2V-Sim [1]      | ECCV'20   | Simu       | 51K       | &#10004; | -        | 1-7        | -          | &#10004;  | -         | &#10004;  | -         | -         |  &#10004; | -                                                    |
@@ -18,7 +16,9 @@ Notes:
 - Source: simulator (Simu) and real-world (Real).
 - Frame refers to annotated LiDAR-based cooperative perception frame number.
 - Supported common perception tasks: 3D object detection (OD), BEV semantic segmentation (SS), 3D object tracking (OT), motion prediction (MP).
-    
+
+▶️ Go back to [Main Page](README.md)
+
 References:
 1. [V2VNet: Vehicle-to-Vehicle Communication for Joint Perception and Prediction](https://arxiv.org/abs/2008.07519)
 2. [V2X-Sim: Multi-Agent Collaborative Perception Dataset and Benchmark for Autonomous Driving](https://arxiv.org/abs/2202.08449)
