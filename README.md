@@ -9,9 +9,9 @@ This repo is constructed for collecting and categorizing papers about collaborat
 
 <div align="center">
 <p align="center">
-<a href="#methods">Methods</a>/
-<a href="#datasets">Datasets</a>/
-<a href="#challenges">Challenges</a>/
+<a href="#methods">Methods</a> |
+<a href="#datasets">Datasets</a> |
+<a href="#challenges">Challenges</a>
 </p>
 </div>
 
@@ -40,6 +40,7 @@ This repo is constructed for collecting and categorizing papers about collaborat
 - Real-world or Simulator
 - V2V or V2I 
 
+👉 [**Datasets Summary**](dataset_summary.md)
 
 ## Challenges
 - Transmission Efficiency in Collaborative Perception
