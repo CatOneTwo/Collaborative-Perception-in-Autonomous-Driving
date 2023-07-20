@@ -26,8 +26,7 @@ This repo is constructed for collecting and categorizing papers about collaborat
 - Customized loss function
 - Output fusion
 
-
-
+👉 View details in [**Datasets Summary**](ideal_scenarios_methods.md)
 
 ### Methods for Real-world Issues
 - Localization errors
@@ -35,12 +34,14 @@ This repo is constructed for collecting and categorizing papers about collaborat
 - Model or task discrepancies
 - Privacy and security issues
 
+👉 View details in [**Datasets Summary**](real_world_methods.md)
+
 
 ## Datasets
 - Real-world or Simulator
 - V2V or V2I 
 
-👉 [**Datasets Summary**](dataset_summary.md)
+👉 View details in [**Datasets Summary**](dataset_summary.md)
 
 ## Challenges
 - Transmission Efficiency in Collaborative Perception
@@ -49,4 +50,14 @@ This repo is constructed for collecting and categorizing papers about collaborat
 - Collaborative Perception with Low Labeling Dependence
 
 
+## Citation
+If you find this work useful, please cite our paper:
+```
+@article{han2023collaborative,
+  title={Collaborative perception in autonomous driving: Methods, datasets and challenges},
+  author={Han, Yushan and Zhang, Hui and Li, Huifang and Jin, Yi and Lang, Congyan and Li, Yidong},
+  journal={arXiv preprint arXiv:2301.06262},
+  year={2023}
+}
+```
 
