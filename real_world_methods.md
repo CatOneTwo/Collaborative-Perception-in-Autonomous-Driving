@@ -25,6 +25,8 @@ Notes:
 - **Discrep** includes model (**Model**) and task (**Task**) discrepancies.
 - **Security** includes attack defense (**Attack**) and privacy protection (**Privacy**).
 
+▶️ Go back to [Main Page](README.md)
+
 References:
 1. [Learning to Communicate and Correct Pose Errors](https://arxiv.org/abs/2011.05289)
 2. [Adversarial attacks on multi-agent communication](https://arxiv.org/abs/2101.06560)
