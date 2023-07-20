@@ -3,6 +3,10 @@
 This repo is constructed for collecting and categorizing papers about collaborative perception according to our ITSM survey paper: 
 [***Collaborative Perception in Autonomous Driving: Methods, Datasets and Challenges***](https://arxiv.org/abs/2301.06262)
 
+<p align="center">
+<img src="Figures/overview.png" width="900" alt="">
+</p>
+
 <div align="center">
 <p align="center">
 <a href="#methods">Methods</a>/
@@ -12,9 +16,7 @@ This repo is constructed for collecting and categorizing papers about collaborat
 </div>
 
 
-<p align="center">
-<img src="Figures/fig1.jpeg" width="350" alt="">
-</p>
+
 
 ## Methods
 ### Methods for Ideal Scenarios
@@ -35,7 +37,8 @@ This repo is constructed for collecting and categorizing papers about collaborat
 
 
 ## Datasets
-
+- Real-world or Simulator
+- V2V or V2I 
 
 
 ## Challenges
