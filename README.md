@@ -26,7 +26,7 @@ This repo is constructed for collecting and categorizing papers about collaborat
 - Customized loss function
 - Output fusion
 
-👉 View details in [**Methods in Ideal Scenarios Summary**](ideal_scenarios_methods.md)
+👉 View details in [**Methods for Ideal Scenarios**](ideal_scenarios_methods.md)
 
 ### Methods for Real-world Issues
 - Localization errors
@@ -34,7 +34,7 @@ This repo is constructed for collecting and categorizing papers about collaborat
 - Model or task discrepancies
 - Privacy and security issues
 
-👉 View details in [**Methods in Real-World Summary**](real_world_methods.md)
+👉 View details in [**Methods for Real-World**](real_world_methods.md)
 
 
 ## Datasets
