@@ -1,7 +1,7 @@
 #  Collaborative Perception in Autonomous Driving Survey
 
 This repo is constructed for collecting and categorizing papers about collaborative perception according to our ITSM survey paper: 
-[***Collaborative Perception in Autonomous Driving: Methods, Datasets and Challenges***](https://arxiv.org/abs/2301.06262)
+***Collaborative Perception in Autonomous Driving: Methods, Datasets and Challenges*** [[Paper](https://arxiv.org/abs/2301.06262)] [[Zhihu](https://zhuanlan.zhihu.com/p/644931857)]
 
 <p align="center">
 <img src="Figures/overview.png" width="900" alt="">
