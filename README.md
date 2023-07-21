@@ -34,7 +34,7 @@ This repo is constructed for collecting and categorizing papers about collaborat
 - Model or task discrepancies
 - Privacy and security issues
 
-👉 View details in [**Methods for Real-World**](real_world_methods.md)
+👉 View details in [**Methods for Real-World Issues**](real_world_methods.md)
 
 
 ## Datasets
