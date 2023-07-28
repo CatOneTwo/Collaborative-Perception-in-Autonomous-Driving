@@ -1,5 +1,13 @@
 # A summary of state-of-the-art collaborative perception methods for ideal scenarios
 
+<div align="center">
+<p align="center">
+<a href="#table">Table</a> |
+<a href="#references">Refer</a> 
+</p>
+</div>
+
+## Table
 |    Method         |  Venue     |   Modality    |    Scheme    |    Data Fusion    |    Comm Mecha    |    Feat Fusion    |    Loss Func    |    Code                                                            |
 |:-----------------:|:----------:|:-------------:|:------------:|:-----------------:|:----------------:|:-----------------:|:---------------:|:------------------------------------------------------------------:|
 | Cooper [1]        | ICDCS'19   | LiDAR         | E            | Raw               | -                | -                 | -               | -                                                                  |
@@ -35,7 +43,7 @@ Note:
 
 ▶️ Go back to [Main Page](README.md)
 
-References:
+## References
 1. [Cooper: Cooperative perception for connected autonomous vehicles based on 3d point clouds](https://arxiv.org/abs/1905.05265)
 2. [F-Cooper: Feature based cooperative perception for autonomous vehicle edge computing system using 3D point clouds](https://arxiv.org/abs/1909.06459)
 3. [Who2com: Collaborative perception via learnable handshake communication](https://arxiv.org/abs/2003.09575)
