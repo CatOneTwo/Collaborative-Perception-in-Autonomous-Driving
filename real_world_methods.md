@@ -17,6 +17,7 @@
 | OptiMatch [14]         | IV'23           | LiDAR            | L                    | Loc, Pos              | -                    | -                   | -                     | -                                                                               |
 | P2OD [15]              | IoT'23          | Camera           | E                    | -                     | -                    | -                   | Privacy               | -                                                                               |
 | V2X-INCOP [16]         | arXiv'23        | LiDAR            | I                    | -                     | Inter                | -                   | -                     | -                                                                               |
+| ROBOSAC [17]           | ICCV'23         | LiDAR            | I                    | -                     | -                    | -                   | Attack               | [Link](https://github.com/coperception/ROBOSAC)                                  |
 
 Notes:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -27,7 +28,7 @@ Notes:
 
 ▶️ Go back to [Main Page](README.md)
 
-References:
+## References:
 1. [Learning to Communicate and Correct Pose Errors](https://arxiv.org/abs/2011.05289)
 2. [Adversarial attacks on multi-agent communication](https://arxiv.org/abs/2101.06560)
 3. [Toward lightweight, privacy-preserving cooperative object classification for connected autonomous vehicles](https://ieeexplore.ieee.org/document/9468670)
@@ -44,3 +45,4 @@ References:
 14. [A Cooperative Perception System Robust to Localization Errors](https://arxiv.org/abs/2210.06289)
 15. [Achieving Lightweight and Privacy-Preserving Object Detection for Connected Autonomous Vehicles](https://ieeexplore.ieee.org/document/9913215)
 16. [Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving](https://arxiv.org/abs/2304.11821)
+17. [Among Us: Adversarially Robust Collaborative Perception by Consensus](https://arxiv.org/abs/2303.09495)
