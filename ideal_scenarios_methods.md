@@ -24,6 +24,7 @@
 | VIMI [20]         | arXiv'23   | Camera        | I            | -                 | -                | Atten             | -               | -                                                                  |
 | HM-ViT [21]       | ICCV'23    | LiDAR, Camera | I            | -                 | -                | Atten             | -               | -                                                                  |
 | CORE [22]         | ICCV'23    | LiDAR         | I            | Raw               | Feat             | Atten             | Recon           | [Link](https://github.com/zllxot/CORE)                             |
+| SCOPE [23]        | ICCV'23    | LiDAR         | I            | -                 | -                | Atten (Spatio-Temporal)   | -               | -                                                          |
 
 Note:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -57,6 +58,7 @@ References:
 20. [VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection](https://arxiv.org/abs/2303.10975)
 21. [HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative perception with vision transformer](https://arxiv.org/abs/2304.10628)
 22. [CORE: Cooperative Reconstruction for Multi-Agent Perception](https://arxiv.org/abs/2307.11514)
+23. [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](https://arxiv.org/abs/2307.13929)
 
 
   
