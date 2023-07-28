@@ -22,7 +22,7 @@
 | Double-M [18]     | ICRA'23    | LiDAR         | E, I, L      | -                 | -                | -                 | Uncert          | [Link](https://github.com/coperception/double-m-quantification)    |
 | CoCa3D [19]       | CVPR'23    | Camera        | I            | -                 | Feat             | Trad              | -               | [Link](https://github.com/MediaBrain-SJTU/CoCa3D)                  |
 | VIMI [20]         | arXiv'23   | Camera        | I            | -                 | -                | Atten             | -               | -                                                                  |
-| HM-ViT [21]       | arXiv'23   | LiDAR, Camera | I            | -                 | -                | Atten             | -               | -                                                                  |
+| HM-ViT [21]       | ICCV'23   | LiDAR, Camera | I            | -                 | -                | Atten             | -               | -                                                                  |
 
 Note:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
