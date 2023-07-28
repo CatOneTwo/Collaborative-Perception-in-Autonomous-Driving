@@ -17,7 +17,7 @@ Notes:
 - Frame refers to annotated LiDAR-based cooperative perception frame number.
 - Supported common perception tasks: 3D object detection (OD), BEV semantic segmentation (SS), 3D object tracking (OT), motion prediction (MP).
 
-▶️ Go back to [Main Page](README.md)
+Back to [Contents](README.md) 🔙 
 
 References:
 1. [V2VNet: Vehicle-to-Vehicle Communication for Joint Perception and Prediction](https://arxiv.org/abs/2008.07519)
