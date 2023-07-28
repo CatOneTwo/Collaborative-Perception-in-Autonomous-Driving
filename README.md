@@ -49,6 +49,7 @@ This repo is constructed for collecting and categorizing papers about collaborat
 - Federated Learning-based Collaborative Perception
 - Collaborative Perception with Low Labeling Dependence
 
+👉 View details in [**New Trends**](new_trends.md)
 
 ## Citation
 If you find this work useful, please cite our paper:
