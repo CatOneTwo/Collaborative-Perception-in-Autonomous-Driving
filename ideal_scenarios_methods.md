@@ -22,14 +22,15 @@
 | Double-M [18]     | ICRA'23    | LiDAR         | E, I, L      | -                 | -                | -                 | Uncert          | [Link](https://github.com/coperception/double-m-quantification)    |
 | CoCa3D [19]       | CVPR'23    | Camera        | I            | -                 | Feat             | Trad              | -               | [Link](https://github.com/MediaBrain-SJTU/CoCa3D)                  |
 | VIMI [20]         | arXiv'23   | Camera        | I            | -                 | -                | Atten             | -               | -                                                                  |
-| HM-ViT [21]       | ICCV'23   | LiDAR, Camera | I            | -                 | -                | Atten             | -               | -                                                                  |
+| HM-ViT [21]       | ICCV'23    | LiDAR, Camera | I            | -                 | -                | Atten             | -               | -                                                                  |
+| CORE [22]         | ICCV'23    | LiDAR         | I            | Raw               | Feat             | Atten             | Recon           | [Link](https://github.com/zllxot/CORE)                             |
 
 Note:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
 - **Data Fusion**: data fusion includes raw data fusion (**Raw**) and output fusion (**Out**).
 - **Comm Mecha**: communication mechanism includes agent selection (**Agent**) and feature selection (**Feat**).
 - **Feat Fusion**: feature fusion can be divided into traditional (**Trad**), graph-based (**Graph**) and attention-based (**Atten**) feature fusion.
-- **Loss Func**: loss function can be used for uncertainty estimation (**Uncert**) and redundancy minimization (**Redund**).
+- **Loss Func**: loss function can be used for uncertainty estimation (**Uncert**), redundancy minimization (**Redund**) and Reconstruction (**Recon**), etc.
 
 ▶️ Go back to [Main Page](README.md)
 
@@ -55,6 +56,7 @@ References:
 19. [Collaboration Helps Camera Overtake LiDAR in 3D Detection](https://arxiv.org/abs/2303.13560)
 20. [VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection](https://arxiv.org/abs/2303.10975)
 21. [HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative perception with vision transformer](https://arxiv.org/abs/2304.10628)
+22. [CORE: Cooperative Reconstruction for Multi-Agent Perception](https://arxiv.org/abs/2307.11514)
 
 
   
