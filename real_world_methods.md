@@ -1,4 +1,13 @@
 # A summary of state-of-the-art collaborative perception methods for real-world issues
+
+<div align="center">
+<p align="center">
+<a href="#table">Table</a> |
+<a href="#references">Refer</a> 
+</p>
+</div>
+
+## Table
 |   Method               |   Venue         | Modality         |       Scheme         |     Loc Error         |   Comm Issue         |     Discrep         |      Security         |    Code                                                                         |
 |:----------------------:|:---------------:|:----------------:|:--------------------:|:---------------------:|:--------------------:|:-------------------:|:---------------------:|:-------------------------------------------------------------------------------:|
 | RobustV2VNet [1]       | CoRL'20         | LiDAR            | I                    | Loc, Pos              | -                    | -                   | -                     | -                                                                               |
@@ -28,7 +37,7 @@ Notes:
 
 ▶️ Go back to [Main Page](README.md)
 
-## References:
+## References
 1. [Learning to Communicate and Correct Pose Errors](https://arxiv.org/abs/2011.05289)
 2. [Adversarial attacks on multi-agent communication](https://arxiv.org/abs/2101.06560)
 3. [Toward lightweight, privacy-preserving cooperative object classification for connected autonomous vehicles](https://ieeexplore.ieee.org/document/9468670)
