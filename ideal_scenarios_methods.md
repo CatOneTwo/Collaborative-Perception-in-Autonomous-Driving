@@ -41,7 +41,7 @@ Note:
 - **Feat Fusion**: feature fusion can be divided into traditional (**Trad**), graph-based (**Graph**) and attention-based (**Atten**) feature fusion.
 - **Loss Func**: loss function can be used for uncertainty estimation (**Uncert**), redundancy minimization (**Redund**) and Reconstruction (**Recon**), etc.
 
-▶️ Go back to [Main Page](README.md)
+Back to [Contents](README.md) 🔙 
 
 ## References
 1. [Cooper: Cooperative perception for connected autonomous vehicles based on 3d point clouds](https://arxiv.org/abs/1905.05265)
