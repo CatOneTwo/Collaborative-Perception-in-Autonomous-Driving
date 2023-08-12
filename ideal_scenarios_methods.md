@@ -33,6 +33,7 @@
 | HM-ViT [21]       | ICCV'23    | LiDAR, Camera | I            | -                 | -                | Atten             | -               | [Link](https://github.com/XHwind/HM-ViT)                           |
 | CORE [22]         | ICCV'23    | LiDAR         | I            | Raw               | Feat             | Atten             | Recon           | [Link](https://github.com/zllxot/CORE)                             |
 | SCOPE [23]        | ICCV'23    | LiDAR         | I            | -                 | -                | Atten (Spatio-Temporal)   | -               | -                                                          |
+| UMC [24]        | ICCV'23    | LiDAR         | I            | -                 | Feat                |Graph   | -               | [Link](https://github.com/ispc-lab/UMC)                                                         |
 
 Note:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -67,6 +68,7 @@ Back to [Contents](README.md) 🔙
 21. [HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative perception with vision transformer](https://arxiv.org/abs/2304.10628)
 22. [CORE: Cooperative Reconstruction for Multi-Agent Perception](https://arxiv.org/abs/2307.11514)
 23. [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](https://arxiv.org/abs/2307.13929)
+24. [UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework](https://arxiv.org/abs/2303.12400)
 
 
   
