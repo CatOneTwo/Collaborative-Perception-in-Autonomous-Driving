@@ -20,13 +20,13 @@ Notes:
 Back to [Contents](README.md) 🔙 
 
 References:
-1. [V2VNet: Vehicle-to-Vehicle Communication for Joint Perception and Prediction](https://arxiv.org/abs/2008.07519)
-2. [V2X-Sim: Multi-Agent Collaborative Perception Dataset and Benchmark for Autonomous Driving](https://arxiv.org/abs/2202.08449)
-3. [OPV2V: An open benchmark dataset and fusion pipeline for perception with vehicle-to-vehicle communication](https://arxiv.org/abs/2109.07644)
-4. [DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection](https://arxiv.org/abs/2204.05575)
-5. [V2X-ViT: Vehicle-to-everything cooperative perception with vision transformer](https://arxiv.org/abs/2203.10638)
-6. [DOLPHINS: Dataset for Collaborative Perception enabled Harmonious and Interconnected Self-driving](https://arxiv.org/abs/2207.07609)
-7. [V2V4Real: A Real-world Large-scale Dataset for Vehicle-to-Vehicle Cooperative Perception](https://arxiv.org/abs/2303.07601)
-8. [V2X-Seq: A large-scale sequential dataset for vehicle-infrastructure cooperative perception and forecasting](https://arxiv.org/abs/2305.05938)
-9. [DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving](https://arxiv.org/abs/2304.01168)
+1. [V2VNet: Vehicle-to-Vehicle Communication for Joint Perception and Prediction](https://arxiv.org/abs/2008.07519) (ECCV'20)
+2. [V2X-Sim: Multi-Agent Collaborative Perception Dataset and Benchmark for Autonomous Driving](https://arxiv.org/abs/2202.08449) (RAL'21)
+3. [OPV2V: An open benchmark dataset and fusion pipeline for perception with vehicle-to-vehicle communication](https://arxiv.org/abs/2109.07644) (ICRA'22)
+4. [DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection](https://arxiv.org/abs/2204.05575) (CVPR'22)
+5. [V2X-ViT: Vehicle-to-everything cooperative perception with vision transformer](https://arxiv.org/abs/2203.10638) (ECCV'22)
+6. [DOLPHINS: Dataset for Collaborative Perception enabled Harmonious and Interconnected Self-driving](https://arxiv.org/abs/2207.07609) (ACCV'22)
+7. [V2V4Real: A Real-world Large-scale Dataset for Vehicle-to-Vehicle Cooperative Perception](https://arxiv.org/abs/2303.07601) (CVPR'23)
+8. [V2X-Seq: A large-scale sequential dataset for vehicle-infrastructure cooperative perception and forecasting](https://arxiv.org/abs/2305.05938) (CVPR'23)
+9. [DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving](https://arxiv.org/abs/2304.01168) (arXiv'23)
    
