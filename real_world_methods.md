@@ -17,7 +17,7 @@
 | TCLF [5]               | CVPR'22         | LiDAR            | L                    | -                     | Laten                | -                   | -                     | [Link](https://github.com/AIR-THU/DAIR-V2X)                                     |
 | V2X-ViT [6]            | ECCV'22         | LiDAR            | I                    | Loc, Pos              | Laten                | -                   | -                     | [Link](https://github.com/DerrickXuNu/v2x-vit)                                  |
 | SyncNet [7]            | ECCV'22         | LiDAR            | I                    | -                     | Laten                | -                   | -                     | [Link](https://github.com/MediaBrain-SJTU/SyncNet)                              |
-| TaskAgnostic [8]       | CoRL'23         | LiDAR            | I                    | -                     | -                    | Task                | -                     | [Link](https://github.com/coperception/star)                                    |
+| TaskAgnostic [8]       | CoRL'22         | LiDAR            | I                    | -                     | -                    | Task                | -                     | [Link](https://github.com/coperception/star)                                    |
 | SecPCV [9]             | TITS'22         | LiDAR            | E                    | -                     | -                    | -                   | Privacy               | -                                                                               |
 | ModelAgnostic [10]     | ICRA'23         | LiDAR            | L                    | -                     | -                    | Model               | -                     | [Link](https://github.com/DerrickXuNu/model_anostic)                            |
 | MPDA [11]              | ICRA'23         | LiDAR            | I                    | -                     | -                    | Model               | -                     | [Link](https://github.com/DerrickXuNu/MPDA)                                     |
@@ -38,20 +38,20 @@ Notes:
 Back to [Contents](README.md) 🔙 
 
 ## References
-1. [Learning to Communicate and Correct Pose Errors](https://arxiv.org/abs/2011.05289)
-2. [Adversarial attacks on multi-agent communication](https://arxiv.org/abs/2101.06560)
-3. [Toward lightweight, privacy-preserving cooperative object classification for connected autonomous vehicles](https://ieeexplore.ieee.org/document/9468670)
-4. [Keypoints-Based Deep Feature Fusion for Cooperative Vehicle Detection of Autonomous Driving](https://arxiv.org/abs/2109.11615)
-5. [DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection](https://arxiv.org/abs/2204.05575)
-6. [V2X-ViT: Vehicle-to-everything cooperative perception with vision transformer](https://arxiv.org/abs/2203.10638)
-7. [Latency-Aware Collaborative Perception](https://arxiv.org/abs/2207.08560)
-8. [Multi-robot scene completion: Towards task-agnostic collaborative perception](https://openreview.net/forum?id=hW0tcXOJas2)
-9. [Edge-Cooperative Privacy-Preserving Object Detection Over Random Point Cloud Shares for Connected Autonomous Vehicles](https://ieeexplore.ieee.org/document/9928424)
-10. [Model-Agnostic Multi-Agent Perception Framework](https://arxiv.org/abs/2203.13168)
-11. [Bridging the Domain Gap for Multi-Agent Perception](https://arxiv.org/abs/2210.08451)
-12. [Robust Collaborative 3D Object Detection in Presence of Pose Errors](https://arxiv.org/abs/2211.07214)
-13. [Learning for Vehicle-to-Vehicle Cooperative Perception under Lossy Communication](https://arxiv.org/abs/2212.08273)
-14. [A Cooperative Perception System Robust to Localization Errors](https://arxiv.org/abs/2210.06289)
-15. [Achieving Lightweight and Privacy-Preserving Object Detection for Connected Autonomous Vehicles](https://ieeexplore.ieee.org/document/9913215)
-16. [Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving](https://arxiv.org/abs/2304.11821)
-17. [Among Us: Adversarially Robust Collaborative Perception by Consensus](https://arxiv.org/abs/2303.09495)
+1. [Learning to Communicate and Correct Pose Errors](https://arxiv.org/abs/2011.05289) (CoRL'20)
+2. [Adversarial attacks on multi-agent communication](https://arxiv.org/abs/2101.06560) (ICCV'21)
+3. [Toward lightweight, privacy-preserving cooperative object classification for connected autonomous vehicles](https://ieeexplore.ieee.org/document/9468670) (IoT'21)
+4. [Keypoints-Based Deep Feature Fusion for Cooperative Vehicle Detection of Autonomous Driving](https://arxiv.org/abs/2109.11615) (RAL'22)
+5. [DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection](https://arxiv.org/abs/2204.05575) (CVPR'22)
+6. [V2X-ViT: Vehicle-to-everything cooperative perception with vision transformer](https://arxiv.org/abs/2203.10638) (ECCV'22)
+7. [Latency-Aware Collaborative Perception](https://arxiv.org/abs/2207.08560) (ECCV'22)
+8. [Multi-robot scene completion: Towards task-agnostic collaborative perception](https://openreview.net/forum?id=hW0tcXOJas2) (CoRL'22)
+9. [Edge-Cooperative Privacy-Preserving Object Detection Over Random Point Cloud Shares for Connected Autonomous Vehicles](https://ieeexplore.ieee.org/document/9928424) (TITS'22)
+10. [Model-Agnostic Multi-Agent Perception Framework](https://arxiv.org/abs/2203.13168) (ICRA'23)
+11. [Bridging the Domain Gap for Multi-Agent Perception](https://arxiv.org/abs/2210.08451) (ICRA'23)
+12. [Robust Collaborative 3D Object Detection in Presence of Pose Errors](https://arxiv.org/abs/2211.07214) (ICRA'23)
+13. [Learning for Vehicle-to-Vehicle Cooperative Perception under Lossy Communication](https://arxiv.org/abs/2212.08273) (TIV'23)
+14. [A Cooperative Perception System Robust to Localization Errors](https://arxiv.org/abs/2210.06289) (IV'23)
+15. [Achieving Lightweight and Privacy-Preserving Object Detection for Connected Autonomous Vehicles](https://ieeexplore.ieee.org/document/9913215) (IoT'23)
+16. [Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving](https://arxiv.org/abs/2304.11821) (arXiv'23)
+17. [Among Us: Adversarially Robust Collaborative Perception by Consensus](https://arxiv.org/abs/2303.09495) (ICCV'23)
