@@ -14,20 +14,20 @@
 | AOMAC [2]              | ICCV'21         | LiDAR            | I                    | -                     | -                    | -                   | Attack                | -                                                                               |
 | P-CNN [3]              | IoT'21          | Camera           | E                    | -                     | -                    | -                   | Privacy               | -                                                                               |
 | FPV-RCNN [4]           | RAL'22          | LiDAR            | I                    | Loc, Pos              | -                    | -                   | -                     | [Link](https://github.com/YuanYunshuang/FPV_RCNN)                              |
-| TCLF [5]               | CVPR'22         | LiDAR            | L                    | -                     | Laten                | -                   | -                     | [Link](https://github.com/AIR-THU/DAIR-V2X)                                     |
-| V2X-ViT [6]            | ECCV'22         | LiDAR            | I                    | Loc, Pos              | Laten                | -                   | -                     | [Link](https://github.com/DerrickXuNu/v2x-vit)                                  |
-| SyncNet [7]            | ECCV'22         | LiDAR            | I                    | -                     | Laten                | -                   | -                     | [Link](https://github.com/MediaBrain-SJTU/SyncNet)                              |
-| TaskAgnostic [8]       | CoRL'22         | LiDAR            | I                    | -                     | -                    | Task                | -                     | [Link](https://github.com/coperception/star)                                    |
+| TCLF [5]               | CVPR'22         | LiDAR            | L                    | -                     | Laten                | -                   | -                     | [Linkv](https://github.com/AIR-THU/DAIR-V2X)                                     |
+| V2X-ViT [6]            | ECCV'22         | LiDAR            | I                    | Loc, Pos              | Laten                | -                   | -                     | [Linko](https://github.com/DerrickXuNu/v2x-vit)                                  |
+| SyncNet [7]            | ECCV'22         | LiDAR            | I                    | -                     | Laten                | -                   | -                     | [Linkc](https://github.com/MediaBrain-SJTU/SyncNet)                              |
+| TaskAgnostic [8]       | CoRL'22         | LiDAR            | I                    | -                     | -                    | Task                | -                     | [Linkc](https://github.com/coperception/star)                                    |
 | SecPCV [9]             | TITS'22         | LiDAR            | E                    | -                     | -                    | -                   | Privacy               | -                                                                               |
 | ModelAgnostic [10]     | ICRA'23         | LiDAR            | L                    | -                     | -                    | Model               | -                     | [Link](https://github.com/DerrickXuNu/model_anostic)                            |
-| MPDA [11]              | ICRA'23         | LiDAR            | I                    | -                     | -                    | Model               | -                     | [Link](https://github.com/DerrickXuNu/MPDA)                                     |
-| CoAlign [12]           | ICRA'23         | LiDAR            | I, L                 | Loc, Pos              | -                    | -                   | -                     | [Link](https://github.com/yifanlu0227/CoAlign)                                  |
+| MPDA [11]              | ICRA'23         | LiDAR            | I                    | -                     | -                    | Model               | -                     | [Linko](https://github.com/DerrickXuNu/MPDA)                                     |
+| CoAlign [12]           | ICRA'23         | LiDAR            | I, L                 | Loc, Pos              | -                    | -                   | -                     | [Linko](https://github.com/yifanlu0227/CoAlign)                                  |
 | LCRN [13]              | TIV'23          | LiDAR            | L                    | -                     | Loss                 | -                   | -                     | -                                                                               |
 | OptiMatch [14]         | IV'23           | LiDAR            | L                    | Loc, Pos              | -                    | -                   | -                     | -                                                                               |
 | P2OD [15]              | IoT'23          | Camera           | E                    | -                     | -                    | -                   | Privacy               | -                                                                               |
 | V2X-INCOP [16]         | arXiv'23        | LiDAR            | I                    | -                     | Inter                | -                   | -                     | -                                                                               |
-| ROBOSAC [17]           | ICCV'23         | LiDAR            | I                    | -                     | -                    | -                   | Attack               | [Link](https://github.com/coperception/ROBOSAC)                                  |
-| FFNet [18]             | arXiv'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | [Link](https://github.com/haibao-yu/FFNet-VIC3D)                                  |
+| ROBOSAC [17]           | ICCV'23         | LiDAR            | I                    | -                     | -                    | -                   | Attack               | [Linkc](https://github.com/coperception/ROBOSAC)                                  |
+| FFNet [18]             | arXiv'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | [Linkv](https://github.com/haibao-yu/FFNet-VIC3D)                                  |
 
 Notes:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -35,6 +35,7 @@ Notes:
 - **Comm Issue** includes latency (**Laten**), interruption (**Inter**) and loss (**Loss**).
 - **Discrep** includes model (**Model**) and task (**Task**) discrepancies.
 - **Security** includes attack defense (**Attack**) and privacy protection (**Privacy**).
+- **Code Framework**: o ([OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD)), v ([VIC3D](https://github.com/AIR-THU/DAIR-V2X)), c ([CoPerception](https://github.com/coperception/coperception)) 
 
 Back to [Contents](README.md) 🔙 
 
