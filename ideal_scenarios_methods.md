@@ -32,15 +32,16 @@
 | VIMI [20]         | arXiv'23   | Camera        | I            | -                 | -                | Atten             | -               | [Link](https://github.com/bosszhe/vimi)                            |
 | HM-ViT [21]       | ICCV'23    | LiDAR, Camera | I            | -                 | -                | Atten             | -               | [Link](https://github.com/XHwind/HM-ViT)                           |
 | CORE [22]         | ICCV'23    | LiDAR         | I            | Raw               | Feat             | Atten             | Recon           | [Link](https://github.com/zllxot/CORE)                             |
-| SCOPE [23]        | ICCV'23    | LiDAR         | I            | -                 | -                | Atten (Spatio-Temporal)   | -               | -                                                          |
+| SCOPE [23]        | ICCV'23    | LiDAR         | I            | -                 | -                | Atten (ST)   | -               | -                                                          |
 | UMC [24]        | ICCV'23    | LiDAR         | I            | -                 | Feat                |Graph   | -               | [Link](https://github.com/ispc-lab/UMC)                                                         |
 | QUEST [25]        | arXiv'23    | Camera         | I, L            | -                 | Feat                |Atten   | -               |         -        |
+| IoSI-CP [26]        | arXiv'23    | LiDAR         | I           | -                 | Agent                |Atten (ST, MS)   | -               | [Link](https://github.com/huangqzj/IoSI-CP)  |
 
 Note:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
 - **Data Fusion**: data fusion includes raw data fusion (**Raw**) and output fusion (**Out**).
 - **Comm Mecha**: communication mechanism includes agent selection (**Agent**) and feature selection (**Feat**).
-- **Feat Fusion**: feature fusion can be divided into traditional (**Trad**), graph-based (**Graph**) and attention-based (**Atten**) feature fusion.
+- **Feat Fusion**: feature fusion can be divided into traditional (**Trad**), graph-based (**Graph**) and attention-based (**Atten**) feature fusion. （ST: spatio-temporal, MS: multi-scale）
 - **Loss Func**: loss function can be used for uncertainty estimation (**Uncert**), redundancy minimization (**Redund**) and Reconstruction (**Recon**), etc.
 
 Back to [Contents](README.md) 🔙 
@@ -71,6 +72,8 @@ Back to [Contents](README.md) 🔙
 23. [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](https://arxiv.org/abs/2307.13929) (ICCV'23)
 24. [UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework](https://arxiv.org/abs/2303.12400) (ICCV'23)
 25. [QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception](https://arxiv.org/abs/2308.01804) (arXiv'23)
+26. [Rethinking Collaborative Perception from the Spatial-Temporal Importance of Semantic Information
+](https://arxiv.org/abs/2307.16517) (arXiv'23)
 
 
   
