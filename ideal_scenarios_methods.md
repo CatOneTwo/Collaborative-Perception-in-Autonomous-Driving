@@ -11,25 +11,25 @@
 |    Method         |  Venue     |   Modality    |    Scheme    |    Data Fusion    |    Comm Mecha    |    Feat Fusion    |    Loss Func    |    Code                                                            |
 |:-----------------:|:----------:|:-------------:|:------------:|:-----------------:|:----------------:|:-----------------:|:---------------:|:------------------------------------------------------------------:|
 | Cooper [1]        | ICDCS'19   | LiDAR         | E            | Raw               | -                | -                 | -               | -                                                                  |
-| F-Cooper [2]      | SEC'19     | LiDAR         | I            | -                 | -                | Trad              | -               | [Link](https://github.com/Aug583/F-COOPER)                         |
+| F-Cooper [2]      | SEC'19     | LiDAR         | I            | -                 | -                | Trad              | -               | [Linkn](https://github.com/Aug583/F-COOPER)                         |
 | Who2com [3]       | ICRA'20    | Camera        | I            | -                 | Agent            | Trad              | -               | -                                                                  |
-| When2com [4]      | CVPR'20    | Camera        | I            | -                 | Agent            | Trad              | -               | [Link](https://github.com/GT-RIPL/MultiAgentPerception)            |
+| When2com [4]      | CVPR'20    | Camera        | I            | -                 | Agent            | Trad              | -               | [Linkn](https://github.com/GT-RIPL/MultiAgentPerception)            |
 | V2VNet [5]        | ECCV'20    | LiDAR         | I            | -                 | -                | Graph             | -               | -                                                                  |
-| Coop3D [6]        | TITS'20    | LiDAR         | E, L         | Raw, Out          | -                | -                 | -               | [Link](https://github.com/eduardohenriquearnold/coop-3dod-infra)   |
+| Coop3D [6]        | TITS'20    | LiDAR         | E, L         | Raw, Out          | -                | -                 | -               | [Linkn](https://github.com/eduardohenriquearnold/coop-3dod-infra)   |
 | CoFF [7]          | IoT'21     | LiDAR         | I            | -                 | -                | Trad              | -               | -                                                                  |
 | DiscoNet [8]      | NeurIPS'21 | LiDAR         | I            | Raw               | -                | Graph             | -               | [Linkc](https://github.com/ai4ce/DiscoNet)                        |
 | MP-Pose [9]       | RAL'22     | Camera        | I            | -                 | -                | Graph             | -               | -                                                                  |
-| FPV-RCNN [10]     | RAL'22     | LiDAR         | I            | Out               | Feat             | Trad              | -               | [Link](https://github.com/YuanYunshuang/FPV_RCNN)                  |
+| FPV-RCNN [10]     | RAL'22     | LiDAR         | I            | Out               | Feat             | Trad              | -               | [Linkn](https://github.com/YuanYunshuang/FPV_RCNN)                  |
 | AttFusion [11]    | ICRA'22    | LiDAR         | I            | -                 | -                | Atten             | -               | [Linko](https://github.com/DerrickXuNu/OpenCOOD)                 |
 | TCLF [12]         | CVPR'22    | LiDAR         | L            | Out               | -                | -                 | -               | [Linkv](https://github.com/AIR-THU/DAIR-V2X)                        |
-| COOPERNAUT [13]   | CVPR'22    | LiDAR         | I            | -                 | -                | Atten             | -               | [Link](https://github.com/UT-Austin-RPL/Coopernaut)                |
+| COOPERNAUT [13]   | CVPR'22    | LiDAR         | I            | -                 | -                | Atten             | -               | [Linkn](https://github.com/UT-Austin-RPL/Coopernaut)                |
 | V2X-ViT [14]      | ECCV'22    | LiDAR         | I            | -                 | -                | Atten             | -               | [Linko](https://github.com/DerrickXuNu/v2x-vit)                     |
 | CRCNet [15]       | MM'22      | LiDAR         | I            | -                 | -                | Atten             | Redund          | -                                                                  |
 | CoBEVT [16]       | CoRL'22    | Camera        | I            | -                 | -                | Atten             | -               | [Linko](https://github.com/DerrickXuNu/CoBEVT)                      |
 | Where2comm [17]   | NeurIPS'22 | LiDAR         | I            | -                 | Agent, Feat      | Atten             | -               | [Linko](https://github.com/MediaBrain-SJTU/Where2comm)              |
 | Double-M [18]     | ICRA'23    | LiDAR         | E, I, L      | -                 | -                | -                 | Uncert          | [Linkc](https://github.com/coperception/double-m-quantification)    |
 | CoCa3D [19]       | CVPR'23    | Camera        | I            | -                 | Feat             | Trad              | -               | [Linko](https://github.com/MediaBrain-SJTU/CoCa3D)                  |
-| VIMI [20]         | arXiv'23   | Camera        | I            | -                 | -                | Atten             | -               | [Link](https://github.com/bosszhe/vimi)                            |
+| VIMI [20]         | arXiv'23   | Camera        | I            | -                 | -                | Atten             | -               | [Linkv](https://github.com/bosszhe/vimi)                            |
 | HM-ViT [21]       | ICCV'23    | LiDAR, Camera | I            | -                 | -                | Atten             | -               | [Linko](https://github.com/XHwind/HM-ViT)                           |
 | CORE [22]         | ICCV'23    | LiDAR         | I            | Raw               | Feat             | Atten             | Recon           | [Linko](https://github.com/zllxot/CORE)                             |
 | SCOPE [23]        | ICCV'23    | LiDAR         | I            | -                 | -                | Atten (ST)   | -               | -                                                          |
@@ -43,7 +43,7 @@ Note:
 - **Comm Mecha**: communication mechanism includes agent selection (**Agent**) and feature selection (**Feat**).
 - **Feat Fusion**: feature fusion can be divided into traditional (**Trad**), graph-based (**Graph**) and attention-based (**Atten**) feature fusion. （ST: spatio-temporal, MS: multi-scale）
 - **Loss Func**: loss function can be used for uncertainty estimation (**Uncert**), redundancy minimization (**Redund**) and Reconstruction (**Recon**), etc.
-- **Code Framework**: o ([OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD)), v ([VIC3D](https://github.com/AIR-THU/DAIR-V2X)), c ([CoPerception](https://github.com/coperception/coperception)) 
+- **Code Framework**: o ([OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD)), v ([VIC3D](https://github.com/AIR-THU/DAIR-V2X)), c ([CoPerception](https://github.com/coperception/coperception)), n (Non-mainstream framework)
 
 Back to [Contents](README.md) 🔙 
 
