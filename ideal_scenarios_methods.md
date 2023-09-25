@@ -35,7 +35,7 @@
 | SCOPE [23]        | ICCV'23    | LiDAR         | I            | -                 | -                | Atten (ST)   | -               | -                                                          |
 | UMC [24]        | ICCV'23    | LiDAR         | I            | -                 | Feat                |Graph   | -               | [Linkc](https://github.com/ispc-lab/UMC)                                                         |
 | QUEST [25]        | arXiv'23    | Camera         | I, L            | -                 | Feat                |Atten   | -               |         -        |
-| IoSI-CP [26]        | arXiv'23    | LiDAR         | I           | -                 | Agent                |Atten (ST, MS)   | -               | [Linko](https://github.com/huangqzj/IoSI-CP)  |
+| Select2Col [26]        | arXiv'23    | LiDAR         | I           | -                 | Agent                |Atten (ST, MS)   | -               | [Linko](https://github.com/huangqzj/select2col)  |
 | MOT-CUP [27]        | arXiv'23    | LiDAR         | E, I, L     | -                 | -                |-             | Uncert             |      [Linkc](https://github.com/susanbao/mot_cup)    |
 | MKD-Cooper [28]        | TIV'23    | LiDAR         | I         | Raw                 | -                |Atten             | -              |    [Linko](https://github.com/EricLee523/MKD-Cooper)|
 
@@ -75,7 +75,7 @@ Back to [Contents](README.md) 🔙
 23. [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](https://arxiv.org/abs/2307.13929) (ICCV'23)
 24. [UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework](https://arxiv.org/abs/2303.12400) (ICCV'23)
 25. [QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception](https://arxiv.org/abs/2308.01804) (arXiv'23)
-26. [Rethinking Collaborative Perception from the Spatial-Temporal Importance of Semantic Information](https://arxiv.org/abs/2307.16517) (arXiv'23)
+26. [Select2Col: Leveraging Spatial-Temporal Importance of Semantic Information for Efficient Collaborative Perception](https://arxiv.org/abs/2307.16517) (arXiv'23)
 27. [Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation](https://arxiv.org/abs/2303.14346) (arXiv'23)
 28. [MKD-Cooper: Cooperative 3D Object Detection for Autonomous Driving via Multi-teacher Knowledge Distillation](https://ieeexplore.ieee.org/abstract/document/10236578) (TIV'23)
 
