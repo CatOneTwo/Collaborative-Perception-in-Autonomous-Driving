@@ -35,7 +35,7 @@
 | SCOPE [23]        | ICCV'23    | LiDAR         | I            | -                 | -                | Atten (ST)   | -               | -                                                          |
 | UMC [24]        | ICCV'23    | LiDAR         | I            | -                 | Feat                |Graph   | -               | [Linkc](https://github.com/ispc-lab/UMC)                                                         |
 | QUEST [25]        | arXiv'23    | Camera         | I, L            | -                 | Feat                |Atten   | -               |         -        |
-| Select2Col [26]        | arXiv'23    | LiDAR         | I           | -                 | Agent                |Atten (ST, MS)   | -               | [Linko](https://github.com/huangqzj/select2col)  |
+| Select2Col [26]        | arXiv'23    | LiDAR         | I           | -                 | Agent                |Atten (ST)   | -               | [Linko](https://github.com/huangqzj/select2col)  |
 | MOT-CUP [27]        | arXiv'23    | LiDAR         | E, I, L     | -                 | -                |-             | Uncert             |      [Linkc](https://github.com/susanbao/mot_cup)    |
 | MKD-Cooper [28]        | TIV'23    | LiDAR         | I         | Raw                 | -                |Atten             | -              |    [Linko](https://github.com/EricLee523/MKD-Cooper)|
 
@@ -43,7 +43,7 @@ Note:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
 - **Data Fusion**: data fusion includes raw data fusion (**Raw**) and output fusion (**Out**).
 - **Comm Mecha**: communication mechanism includes agent selection (**Agent**) and feature selection (**Feat**).
-- **Feat Fusion**: feature fusion can be divided into traditional (**Trad**), graph-based (**Graph**) and attention-based (**Atten**) feature fusion. （ST: spatio-temporal, MS: multi-scale）
+- **Feat Fusion**: feature fusion can be divided into traditional (**Trad**), graph-based (**Graph**) and attention-based (**Atten**) feature fusion. （ST: spatio-temporal）
 - **Loss Func**: loss function can be used for uncertainty estimation (**Uncert**), redundancy minimization (**Redund**) and Reconstruction (**Recon**), etc.
 - **Code Framework**: o ([OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD)), v ([VIC3D](https://github.com/AIR-THU/DAIR-V2X)), c ([CoPerception](https://github.com/coperception/coperception)), n (Non-mainstream framework)
 
