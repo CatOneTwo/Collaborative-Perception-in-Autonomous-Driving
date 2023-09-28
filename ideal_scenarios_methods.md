@@ -33,11 +33,12 @@
 | HM-ViT [21]       | ICCV'23    | LiDAR, Camera | I            | -                 | -                | Atten             | -               | [Linko](https://github.com/XHwind/HM-ViT)                           |
 | CORE [22]         | ICCV'23    | LiDAR         | I            | Raw               | Feat             | Atten             | Recon           | [Linko](https://github.com/zllxot/CORE)                             |
 | SCOPE [23]        | ICCV'23    | LiDAR         | I            | -                 | -                | Atten (ST)   | -               | -                                                          |
-| UMC [24]        | ICCV'23    | LiDAR         | I            | -                 | Feat                |Graph   | -               | [Linkc](https://github.com/ispc-lab/UMC)                                                         |
-| QUEST [25]        | arXiv'23    | Camera         | I, L            | -                 | Feat                |Atten   | -               |         -        |
-| Select2Col [26]        | arXiv'23    | LiDAR         | I           | -                 | Agent                |Atten (ST)   | -               | [Linko](https://github.com/huangqzj/select2col)  |
-| MOT-CUP [27]        | arXiv'23    | LiDAR         | E, I, L     | -                 | -                |-             | Uncert             |      [Linkc](https://github.com/susanbao/mot_cup)    |
-| MKD-Cooper [28]        | TIV'23    | LiDAR         | I         | Raw                 | -                |Atten             | -              |    [Linko](https://github.com/EricLee523/MKD-Cooper)|
+| TransIFF [24]        | ICCV'23    | LiDAR         | I            | -                 | Feat                | Atten    | -               | -       
+| UMC [25]        | ICCV'23    | LiDAR         | I            | -                 | Feat                |Graph   | -               | [Linkc](https://github.com/ispc-lab/UMC)                                                         |
+| QUEST [26]        | arXiv'23    | Camera         | I, L            | -                 | Feat                |Atten   | -               |         -        |
+| Select2Col [27]        | arXiv'23    | LiDAR         | I           | -                 | Agent                |Atten (ST)   | -               | [Linko](https://github.com/huangqzj/select2col)  |
+| MOT-CUP [28]        | arXiv'23    | LiDAR         | E, I, L     | -                 | -                |-             | Uncert             |      [Linkc](https://github.com/susanbao/mot_cup)    |
+| MKD-Cooper [29]        | TIV'23    | LiDAR         | I         | Raw                 | -                |Atten             | -              |    [Linko](https://github.com/EricLee523/MKD-Cooper)|
 
 Note:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -73,11 +74,12 @@ Back to [Contents](README.md) 🔙
 21. [HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative perception with vision transformer](https://arxiv.org/abs/2304.10628) (ICCV'23)
 22. [CORE: Cooperative Reconstruction for Multi-Agent Perception](https://arxiv.org/abs/2307.11514) (ICCV'23)
 23. [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](https://arxiv.org/abs/2307.13929) (ICCV'23)
-24. [UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework](https://arxiv.org/abs/2303.12400) (ICCV'23)
-25. [QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception](https://arxiv.org/abs/2308.01804) (arXiv'23)
-26. [Select2Col: Leveraging Spatial-Temporal Importance of Semantic Information for Efficient Collaborative Perception](https://arxiv.org/abs/2307.16517) (arXiv'23)
-27. [Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation](https://arxiv.org/abs/2303.14346) (arXiv'23)
-28. [MKD-Cooper: Cooperative 3D Object Detection for Autonomous Driving via Multi-teacher Knowledge Distillation](https://ieeexplore.ieee.org/abstract/document/10236578) (TIV'23)
+24. [TransIFF: An Instance-Level Feature Fusion Framework for Vehicle-Infrastructure Cooperative 3D Detection with Transformers](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_TransIFF_An_Instance-Level_Feature_Fusion_Framework_for_Vehicle-Infrastructure_Cooperative_3D_ICCV_2023_paper.pdf) (ICCV'23)
+25. [UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework](https://arxiv.org/abs/2303.12400) (ICCV'23)
+26. [QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception](https://arxiv.org/abs/2308.01804) (arXiv'23)
+27. [Select2Col: Leveraging Spatial-Temporal Importance of Semantic Information for Efficient Collaborative Perception](https://arxiv.org/abs/2307.16517) (arXiv'23)
+28. [Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation](https://arxiv.org/abs/2303.14346) (arXiv'23)
+29. [MKD-Cooper: Cooperative 3D Object Detection for Autonomous Driving via Multi-teacher Knowledge Distillation](https://ieeexplore.ieee.org/abstract/document/10236578) (TIV'23)
 
 
 
