@@ -43,25 +43,25 @@ Back to [Contents](README.md) 🔙
 
 ## References
 ### Published
-1. [Learning to Communicate and Correct Pose Errors](https://arxiv.org/abs/2011.05289) (CoRL'20)
-2. [Adversarial attacks on multi-agent communication](https://arxiv.org/abs/2101.06560) (ICCV'21)
-3. [Toward lightweight, privacy-preserving cooperative object classification for connected autonomous vehicles](https://ieeexplore.ieee.org/document/9468670) (IoT'21)
-4. [Keypoints-Based Deep Feature Fusion for Cooperative Vehicle Detection of Autonomous Driving](https://arxiv.org/abs/2109.11615) (RAL'22)
-5. [DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection](https://arxiv.org/abs/2204.05575) (CVPR'22)
-6. [V2X-ViT: Vehicle-to-everything cooperative perception with vision transformer](https://arxiv.org/abs/2203.10638) (ECCV'22)
-7. [Latency-Aware Collaborative Perception](https://arxiv.org/abs/2207.08560) (ECCV'22)
-8. [Multi-robot scene completion: Towards task-agnostic collaborative perception](https://openreview.net/forum?id=hW0tcXOJas2) (CoRL'22)
-9. [Edge-Cooperative Privacy-Preserving Object Detection Over Random Point Cloud Shares for Connected Autonomous Vehicles](https://ieeexplore.ieee.org/document/9928424) (TITS'22)
-10. [Model-Agnostic Multi-Agent Perception Framework](https://arxiv.org/abs/2203.13168) (ICRA'23)
-11. [Bridging the Domain Gap for Multi-Agent Perception](https://arxiv.org/abs/2210.08451) (ICRA'23)
-12. [Robust Collaborative 3D Object Detection in Presence of Pose Errors](https://arxiv.org/abs/2211.07214) (ICRA'23)
-13. [Learning for Vehicle-to-Vehicle Cooperative Perception under Lossy Communication](https://arxiv.org/abs/2212.08273) (TIV'23)
-14. [A Cooperative Perception System Robust to Localization Errors](https://arxiv.org/abs/2210.06289) (IV'23)
-15. [Achieving Lightweight and Privacy-Preserving Object Detection for Connected Autonomous Vehicles](https://ieeexplore.ieee.org/document/9913215) (IoT'23)
-16. [Among Us: Adversarially Robust Collaborative Perception by Consensus](https://arxiv.org/abs/2303.09495) (ICCV'23)
-17. Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection (NeurIPS'23)
-18. [Robust Asynchronous Collaborative 3D Detection via Bird’s Eye View Flow](https://arxiv.org/abs/2309.16940) (NeurIPS'23)
-19. How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception (NeurIPS'23)
+1. Learning to Communicate and Correct Pose Errors (CoRL'20) [[`pdf`](https://arxiv.org/abs/2011.05289)] [[`code`]()]
+2. Adversarial attacks on multi-agent communication (ICCV'21) [[`pdf`](https://arxiv.org/abs/2101.06560)]
+3. Toward lightweight, privacy-preserving cooperative object classification for connected autonomous vehicles (IoT'21) [[`pdf`](https://ieeexplore.ieee.org/document/9468670)]
+4. Keypoints-Based Deep Feature Fusion for Cooperative Vehicle Detection of Autonomous Driving (RAL'22) [[`pdf`](https://arxiv.org/abs/2109.11615)] [[`code`](https://github.com/YuanYunshuang/FPV_RCNN)]
+5. DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection (CVPR'22) [[`pdf`](https://arxiv.org/abs/2204.05575)] [[`code`](https://github.com/AIR-THU/DAIR-V2X)]
+6. V2X-ViT: Vehicle-to-everything cooperative perception with vision transformer (ECCV'22) [[`pdf`](https://arxiv.org/abs/2203.10638)] [[`code`](https://github.com/DerrickXuNu/v2x-vit)]
+7. Latency-Aware Collaborative Perception (ECCV'22) [[`pdf`](https://arxiv.org/abs/2207.08560)] [[`code`](https://github.com/MediaBrain-SJTU/SyncNet)]
+8. Multi-robot scene completion: Towards task-agnostic collaborative perception (CoRL'22) [[`pdf`](https://openreview.net/forum?id=hW0tcXOJas2)] [[`code`](https://github.com/coperception/star)]
+9. Edge-Cooperative Privacy-Preserving Object Detection Over Random Point Cloud Shares for Connected Autonomous Vehicles (TITS'22) [[`pdf`](https://ieeexplore.ieee.org/document/9928424)]
+10. Model-Agnostic Multi-Agent Perception Framework (ICRA'23) [[`pdf`](https://arxiv.org/abs/2203.13168)] [[`code`](https://github.com/DerrickXuNu/model_anostic)]
+11. Bridging the Domain Gap for Multi-Agent Perception (ICRA'23) [[`pdf`](https://arxiv.org/abs/2210.08451)] [[`code`](https://github.com/DerrickXuNu/MPDA)]
+12. Robust Collaborative 3D Object Detection in Presence of Pose Errors (ICRA'23) [[`pdf`](https://arxiv.org/abs/2211.07214)] [[`code`](https://github.com/yifanlu0227/CoAlign)]
+13. Learning for Vehicle-to-Vehicle Cooperative Perception under Lossy Communication (TIV'23) [[`pdf`](https://arxiv.org/abs/2212.08273)]
+14. A Cooperative Perception System Robust to Localization Errors (IV'23) [[`pdf`](https://arxiv.org/abs/2210.06289)]
+15. Achieving Lightweight and Privacy-Preserving Object Detection for Connected Autonomous Vehicles (IoT'23) [[`pdf`](https://ieeexplore.ieee.org/document/9913215)]
+16. Among Us: Adversarially Robust Collaborative Perception by Consensus (ICCV'23) [[`pdf`](https://arxiv.org/abs/2303.09495)] [[`code`](https://github.com/coperception/ROBOSAC)]
+17. Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection (NeurIPS'23) [[`pdf`]] [[`code`](https://github.com/haibao-yu/FFNet-VIC3D)]
+18. Robust Asynchronous Collaborative 3D Detection via Bird’s Eye View Flow (NeurIPS'23) [[`pdf`](https://arxiv.org/abs/2309.16940)] [[`code`](https://github.com/MediaBrain-SJTU/CoBEVFlow)]
+19. How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception (NeurIPS'23) [[`pdf`]]
 
 ### ArXiv
-1. [Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving](https://arxiv.org/abs/2304.11821) (arXiv'23)
+1. Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving (arXiv'23) [[`pdf`](https://arxiv.org/abs/2304.11821)]
