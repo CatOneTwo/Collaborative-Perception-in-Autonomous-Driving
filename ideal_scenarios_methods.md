@@ -83,10 +83,10 @@ Back to [Contents](README.md) 🔙
 27. How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception (NeurIPS'23)
 
 ## ArXiv
-a1. [VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection](https://arxiv.org/abs/2303.10975) (arXiv'23)
-a2. [QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception](https://arxiv.org/abs/2308.01804) (arXiv'23)
-a3. [Select2Col: Leveraging Spatial-Temporal Importance of Semantic Information for Efficient Collaborative Perception](https://arxiv.org/abs/2307.16517) (arXiv'23)
-a4. [Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation](https://arxiv.org/abs/2303.14346) (arXiv'23)
+1. [VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection](https://arxiv.org/abs/2303.10975) (arXiv'23)
+2. [QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception](https://arxiv.org/abs/2308.01804) (arXiv'23)
+3. [Select2Col: Leveraging Spatial-Temporal Importance of Semantic Information for Efficient Collaborative Perception](https://arxiv.org/abs/2307.16517) (arXiv'23)
+4. [Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation](https://arxiv.org/abs/2303.14346) (arXiv'23)
 
 
   
