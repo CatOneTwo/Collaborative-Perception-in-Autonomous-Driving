@@ -27,7 +27,8 @@
 | P2OD [15]              | IoT'23          | Camera           | E                    | -                     | -                    | -                   | Privacy               | -                                                                               |
 | V2X-INCOP [16]         | arXiv'23        | LiDAR            | I                    | -                     | Inter                | -                   | -                     | -                                                                               |
 | ROBOSAC [17]           | ICCV'23         | LiDAR            | I                    | -                     | -                    | -                   | Attack               | [Linkc](https://github.com/coperception/ROBOSAC)                                  |
-| FFNet [18]             | arXiv'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | [Linkv](https://github.com/haibao-yu/FFNet-VIC3D)                                  |
+| FFNet [18]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | [Linkv](https://github.com/haibao-yu/FFNet-VIC3D)                                  |
+| CoBEVFlow [19]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | [Linko](https://github.com/MediaBrain-SJTU/CoBEVFlow)                                  |
 
 Notes:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -57,4 +58,5 @@ Back to [Contents](README.md) 🔙
 15. [Achieving Lightweight and Privacy-Preserving Object Detection for Connected Autonomous Vehicles](https://ieeexplore.ieee.org/document/9913215) (IoT'23)
 16. [Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving](https://arxiv.org/abs/2304.11821) (arXiv'23)
 17. [Among Us: Adversarially Robust Collaborative Perception by Consensus](https://arxiv.org/abs/2303.09495) (ICCV'23)
-18. [Vehicle-Infrastructure Cooperative 3D Object Detection via Feature Flow Prediction](https://arxiv.org/abs/2303.10552) (arXiv'23)
+18. Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection (NeurIPS'23)
+19. [Robust Asynchronous Collaborative 3D Detection via Bird’s Eye View Flow](https://arxiv.org/abs/2309.16940) (NeurIPS'23)
