@@ -54,6 +54,7 @@ Note:
 Back to [Contents](README.md) 🔙 
 
 ## References
+### Published
 1. [Cooper: Cooperative perception for connected autonomous vehicles based on 3d point clouds](https://arxiv.org/abs/1905.05265) (ICDCS'19)
 2. [F-Cooper: Feature based cooperative perception for autonomous vehicle edge computing system using 3D point clouds](https://arxiv.org/abs/1909.06459) (SEC'19)
 3. [Who2com: Collaborative perception via learnable handshake communication](https://arxiv.org/abs/2003.09575) (ICRA'20)
@@ -82,7 +83,7 @@ Back to [Contents](README.md) 🔙
 26. [V2VFormer ++ : Multi-Modal Vehicle-to-Vehicle Cooperative Perception via Global-Local Transformer](https://ieeexplore.ieee.org/document/10265751/) (TITS'23)
 27. How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception (NeurIPS'23)
 
-## ArXiv
+### ArXiv
 1. [VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection](https://arxiv.org/abs/2303.10975) (arXiv'23)
 2. [QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception](https://arxiv.org/abs/2308.01804) (arXiv'23)
 3. [Select2Col: Leveraging Spatial-Temporal Importance of Semantic Information for Efficient Collaborative Perception](https://arxiv.org/abs/2307.16517) (arXiv'23)
