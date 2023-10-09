@@ -25,10 +25,10 @@
 | LCRN [13]              | TIV'23          | LiDAR            | L                    | -                     | Loss                 | -                   | -                     | -                                                                               |
 | OptiMatch [14]         | IV'23           | LiDAR            | L                    | Loc, Pos              | -                    | -                   | -                     | -                                                                               |
 | P2OD [15]              | IoT'23          | Camera           | E                    | -                     | -                    | -                   | Privacy               | -                                                                               |
-| V2X-INCOP [16]         | arXiv'23        | LiDAR            | I                    | -                     | Inter                | -                   | -                     | -                                                                               |
-| ROBOSAC [17]           | ICCV'23         | LiDAR            | I                    | -                     | -                    | -                   | Attack               | [Linkc](https://github.com/coperception/ROBOSAC)                                  |
-| FFNet [18]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | [Linkv](https://github.com/haibao-yu/FFNet-VIC3D)                                  |
-| CoBEVFlow [19]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | [Linko](https://github.com/MediaBrain-SJTU/CoBEVFlow)                                  |
+| ROBOSAC [16]           | ICCV'23         | LiDAR            | I                    | -                     | -                    | -                   | Attack               | [Linkc](https://github.com/coperception/ROBOSAC)                                  |
+| FFNet [17]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | [Linkv](https://github.com/haibao-yu/FFNet-VIC3D)                                  |
+| CoBEVFlow [18]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | [Linko](https://github.com/MediaBrain-SJTU/CoBEVFlow)                                  |
+| V2X-INCOP [a1]         | arXiv'23        | LiDAR            | I                    | -                     | Inter                | -                   | -                     | -               |
 
 Notes:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -56,7 +56,9 @@ Back to [Contents](README.md) 🔙
 13. [Learning for Vehicle-to-Vehicle Cooperative Perception under Lossy Communication](https://arxiv.org/abs/2212.08273) (TIV'23)
 14. [A Cooperative Perception System Robust to Localization Errors](https://arxiv.org/abs/2210.06289) (IV'23)
 15. [Achieving Lightweight and Privacy-Preserving Object Detection for Connected Autonomous Vehicles](https://ieeexplore.ieee.org/document/9913215) (IoT'23)
-16. [Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving](https://arxiv.org/abs/2304.11821) (arXiv'23)
-17. [Among Us: Adversarially Robust Collaborative Perception by Consensus](https://arxiv.org/abs/2303.09495) (ICCV'23)
-18. Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection (NeurIPS'23)
-19. [Robust Asynchronous Collaborative 3D Detection via Bird’s Eye View Flow](https://arxiv.org/abs/2309.16940) (NeurIPS'23)
+16. [Among Us: Adversarially Robust Collaborative Perception by Consensus](https://arxiv.org/abs/2303.09495) (ICCV'23)
+17. Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection (NeurIPS'23)
+18. [Robust Asynchronous Collaborative 3D Detection via Bird’s Eye View Flow](https://arxiv.org/abs/2309.16940) (NeurIPS'23)
+
+## Preprint
+a1. [Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving](https://arxiv.org/abs/2304.11821) (arXiv'23)
