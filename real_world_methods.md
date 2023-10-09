@@ -43,7 +43,7 @@ Back to [Contents](README.md) 🔙
 
 ## References
 ### Published
-1. Learning to Communicate and Correct Pose Errors (CoRL'20) [[`pdf`](https://arxiv.org/abs/2011.05289)] [[`code`]()]
+1. Learning to Communicate and Correct Pose Errors (CoRL'20) [[`pdf`](https://arxiv.org/abs/2011.05289)] 
 2. Adversarial attacks on multi-agent communication (ICCV'21) [[`pdf`](https://arxiv.org/abs/2101.06560)]
 3. Toward lightweight, privacy-preserving cooperative object classification for connected autonomous vehicles (IoT'21) [[`pdf`](https://ieeexplore.ieee.org/document/9468670)]
 4. Keypoints-Based Deep Feature Fusion for Cooperative Vehicle Detection of Autonomous Driving (RAL'22) [[`pdf`](https://arxiv.org/abs/2109.11615)] [[`code`](https://github.com/YuanYunshuang/FPV_RCNN)]
