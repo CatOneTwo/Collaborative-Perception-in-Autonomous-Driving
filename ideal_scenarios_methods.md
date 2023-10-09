@@ -29,16 +29,19 @@
 | Where2comm [17]   | NeurIPS'22 | LiDAR         | I            | -                 | Agent, Feat      | Atten             | -               | [Linko](https://github.com/MediaBrain-SJTU/Where2comm)              |
 | Double-M [18]     | ICRA'23    | LiDAR         | E, I, L      | -                 | -                | -                 | Uncert          | [Linkc](https://github.com/coperception/double-m-quantification)    |
 | CoCa3D [19]       | CVPR'23    | Camera        | I            | -                 | Feat             | Trad              | -               | [Linko](https://github.com/MediaBrain-SJTU/CoCa3D)                  |
-| VIMI [20]         | arXiv'23   | Camera        | I            | -                 | -                | Atten             | -               | [Linkv](https://github.com/bosszhe/vimi)                            |
-| HM-ViT [21]       | ICCV'23    | LiDAR, Camera | I            | -                 | -                | Atten             | -               | [Linko](https://github.com/XHwind/HM-ViT)                           |
-| CORE [22]         | ICCV'23    | LiDAR         | I            | Raw               | Feat             | Atten             | Recon           | [Linko](https://github.com/zllxot/CORE)                             |
-| SCOPE [23]        | ICCV'23    | LiDAR         | I            | -                 | -                | Atten (ST)   | -               | -                                                          |
-| TransIFF [24]        | ICCV'23    | LiDAR         | I            | -                 | Feat                | Atten    | -               | -       
-| UMC [25]        | ICCV'23    | LiDAR         | I            | -                 | Feat                |Graph   | -               | [Linkc](https://github.com/ispc-lab/UMC)                                                         |
-| QUEST [26]        | arXiv'23    | Camera         | I, L            | -                 | Feat                |Atten   | -               |         -        |
-| Select2Col [27]        | arXiv'23    | LiDAR         | I           | -                 | Agent                |Atten (ST)   | -               | [Linko](https://github.com/huangqzj/select2col)  |
-| MOT-CUP [28]        | arXiv'23    | LiDAR         | E, I, L     | -                 | -                |-             | Uncert             |      [Linkc](https://github.com/susanbao/mot_cup)    |
-| MKD-Cooper [29]        | TIV'23    | LiDAR         | I         | Raw                 | -                |Atten             | -              |    [Linko](https://github.com/EricLee523/MKD-Cooper)|
+| HM-ViT [20]       | ICCV'23    | LiDAR, Camera | I            | -                 | -                | Atten             | -               | [Linko](https://github.com/XHwind/HM-ViT)                           |
+| CORE [21]         | ICCV'23    | LiDAR         | I            | Raw               | Feat             | Atten             | Recon           | [Linko](https://github.com/zllxot/CORE)                             |
+| SCOPE [22]        | ICCV'23    | LiDAR         | I            | -                 | -                | Atten (ST)   | -               | -                                                          |
+| TransIFF [23]        | ICCV'23    | LiDAR         | I            | -                 | Feat                | Atten    | -               | -       
+| UMC [24]        | ICCV'23    | LiDAR         | I            | -                 | Feat                |Graph   | -               | [Linkc](https://github.com/ispc-lab/UMC)                                                         |
+| MKD-Cooper [25]        | TIV'23    | LiDAR         | I         | Raw                 | -                |Atten             | -              |    [Linko](https://github.com/EricLee523/MKD-Cooper)|
+| V2VFormer++ [26]        | TITS'23    | LiDAR, Camera         | I         | -              | -                |Atten             | -              |    -          |
+| How2comm [27]        | NeurIPS'23    | LiDAR          | I         | -              | Feat                |Atten (ST)            | -              |    -          |
+| VIMI [a1]         | arXiv'23   | Camera        | I            | -                 | -                | Atten             | -               | [Linkv](https://github.com/bosszhe/vimi)                            |
+| QUEST [a2]        | arXiv'23    | Camera         | I, L            | -                 | Feat                |Atten   | -               |         -        |
+| Select2Col [a3]        | arXiv'23    | LiDAR         | I           | -                 | Agent                |Atten (ST)   | -               | [Linko](https://github.com/huangqzj/select2col)  |
+| MOT-CUP [a4]        | arXiv'23    | LiDAR         | E, I, L     | -                 | -                |-             | Uncert             |      [Linkc](https://github.com/susanbao/mot_cup)    |
+
 
 Note:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -70,17 +73,20 @@ Back to [Contents](README.md) 🔙
 17. [Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps](https://arxiv.org/abs/2209.12836) (NeurIPS'22)
 18. [Uncertainty Quantification of Collaborative Detection for Self-Driving](https://arxiv.org/abs/2209.08162) (ICRA'23)
 19. [Collaboration Helps Camera Overtake LiDAR in 3D Detection](https://arxiv.org/abs/2303.13560) (CVPR'23)
-20. [VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection](https://arxiv.org/abs/2303.10975) (arXiv'23)
-21. [HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative perception with vision transformer](https://arxiv.org/abs/2304.10628) (ICCV'23)
-22. [CORE: Cooperative Reconstruction for Multi-Agent Perception](https://arxiv.org/abs/2307.11514) (ICCV'23)
-23. [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](https://arxiv.org/abs/2307.13929) (ICCV'23)
-24. [TransIFF: An Instance-Level Feature Fusion Framework for Vehicle-Infrastructure Cooperative 3D Detection with Transformers](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_TransIFF_An_Instance-Level_Feature_Fusion_Framework_for_Vehicle-Infrastructure_Cooperative_3D_ICCV_2023_paper.pdf) (ICCV'23)
-25. [UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework](https://arxiv.org/abs/2303.12400) (ICCV'23)
-26. [QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception](https://arxiv.org/abs/2308.01804) (arXiv'23)
-27. [Select2Col: Leveraging Spatial-Temporal Importance of Semantic Information for Efficient Collaborative Perception](https://arxiv.org/abs/2307.16517) (arXiv'23)
-28. [Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation](https://arxiv.org/abs/2303.14346) (arXiv'23)
-29. [MKD-Cooper: Cooperative 3D Object Detection for Autonomous Driving via Multi-teacher Knowledge Distillation](https://ieeexplore.ieee.org/abstract/document/10236578) (TIV'23)
+20. [HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative perception with vision transformer](https://arxiv.org/abs/2304.10628) (ICCV'23)
+21. [CORE: Cooperative Reconstruction for Multi-Agent Perception](https://arxiv.org/abs/2307.11514) (ICCV'23)
+22. [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](https://arxiv.org/abs/2307.13929) (ICCV'23)
+23. [TransIFF: An Instance-Level Feature Fusion Framework for Vehicle-Infrastructure Cooperative 3D Detection with Transformers](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_TransIFF_An_Instance-Level_Feature_Fusion_Framework_for_Vehicle-Infrastructure_Cooperative_3D_ICCV_2023_paper.pdf) (ICCV'23)
+24. [UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework](https://arxiv.org/abs/2303.12400) (ICCV'23)
+25. [MKD-Cooper: Cooperative 3D Object Detection for Autonomous Driving via Multi-teacher Knowledge Distillation](https://ieeexplore.ieee.org/abstract/document/10236578) (TIV'23)
+26. [V2VFormer ++ : Multi-Modal Vehicle-to-Vehicle Cooperative Perception via Global-Local Transformer](https://ieeexplore.ieee.org/document/10265751/) (TITS'23)
+27. How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception (NeurIPS'23)
 
+## ArXiv
+a1. [VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection](https://arxiv.org/abs/2303.10975) (arXiv'23)
+a2. [QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception](https://arxiv.org/abs/2308.01804) (arXiv'23)
+a3. [Select2Col: Leveraging Spatial-Temporal Importance of Semantic Information for Efficient Collaborative Perception](https://arxiv.org/abs/2307.16517) (arXiv'23)
+a4. [Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation](https://arxiv.org/abs/2303.14346) (arXiv'23)
 
 
   
