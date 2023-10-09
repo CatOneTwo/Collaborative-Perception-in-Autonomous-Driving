@@ -56,40 +56,40 @@ Back to [Contents](README.md) 🔙
 
 ## References
 ### Published
-1. [Cooper: Cooperative perception for connected autonomous vehicles based on 3d point clouds](https://arxiv.org/abs/1905.05265) (ICDCS'19)
-2. [F-Cooper: Feature based cooperative perception for autonomous vehicle edge computing system using 3D point clouds](https://arxiv.org/abs/1909.06459) (SEC'19)
-3. [Who2com: Collaborative perception via learnable handshake communication](https://arxiv.org/abs/2003.09575) (ICRA'20)
-4. [When2com: Multi-agent perception via communication graph grouping](https://arxiv.org/abs/2006.00176) (CVPR'20)
-5. [V2VNet: Vehicle-to-Vehicle Communication for Joint Perception and Prediction](https://arxiv.org/abs/2008.07519) (ECCV'20)
-6. [Cooperative perception for 3D object detection in driving scenarios using infrastructure sensors](https://arxiv.org/abs/1912.12147) (TITS'20    )
-7. [CoFF: Cooperative spatial feature fusion for 3-d object detection on autonomous vehicles](https://arxiv.org/abs/2009.11975) (IoT'21)
-8. [Learning distilled collaboration graph for multi-agent perception](https://arxiv.org/abs/2111.00643) (NeurIPS'21)
-9. [Multi-Robot Collaborative Perception with Graph Neural Networks](https://arxiv.org/abs/2201.01760) (RAL'22)
-10. [Keypoints-Based Deep Feature Fusion for Cooperative Vehicle Detection of Autonomous Driving](https://arxiv.org/abs/2109.11615) (RAL'22)
-11. [OPV2V: An open benchmark dataset and fusion pipeline for perception with vehicle-to-vehicle communication](https://arxiv.org/abs/2109.07644) (ICRA'22)
-12. [DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection](https://arxiv.org/abs/2204.05575) (CVPR'22)
-13. [COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles](https://arxiv.org/abs/2205.02222) (CVPR'22)
-14. [V2X-ViT: Vehicle-to-everything cooperative perception with vision transformer](https://arxiv.org/abs/2203.10638) (ECCV'22)
-15. [Complementarity-Enhanced and Redundancy-Minimized Collaboration Network for Multi-agent Perception](https://dl.acm.org/doi/abs/10.1145/3503161.3548197) (MM'22)
-16. [CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers](https://arxiv.org/abs/2207.02202) (CoRL'22)
-17. [Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps](https://arxiv.org/abs/2209.12836) (NeurIPS'22)
-18. [Uncertainty Quantification of Collaborative Detection for Self-Driving](https://arxiv.org/abs/2209.08162) (ICRA'23)
-19. [Collaboration Helps Camera Overtake LiDAR in 3D Detection](https://arxiv.org/abs/2303.13560) (CVPR'23)
-20. [HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative perception with vision transformer](https://arxiv.org/abs/2304.10628) (ICCV'23)
-21. [CORE: Cooperative Reconstruction for Multi-Agent Perception](https://arxiv.org/abs/2307.11514) (ICCV'23)
-22. [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](https://arxiv.org/abs/2307.13929) (ICCV'23)
-23. [TransIFF: An Instance-Level Feature Fusion Framework for Vehicle-Infrastructure Cooperative 3D Detection with Transformers](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_TransIFF_An_Instance-Level_Feature_Fusion_Framework_for_Vehicle-Infrastructure_Cooperative_3D_ICCV_2023_paper.pdf) (ICCV'23)
-24. [UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework](https://arxiv.org/abs/2303.12400) (ICCV'23)
-25. [HYDRO-3D: Hybrid Object Detection and Tracking for Cooperative Perception Using 3D LiDAR](https://ieeexplore.ieee.org/abstract/document/10148929) (TIV'23)
-26. [MKD-Cooper: Cooperative 3D Object Detection for Autonomous Driving via Multi-teacher Knowledge Distillation](https://ieeexplore.ieee.org/abstract/document/10236578) (TIV'23)
-27. [V2VFormer ++ : Multi-Modal Vehicle-to-Vehicle Cooperative Perception via Global-Local Transformer](https://ieeexplore.ieee.org/document/10265751/) (TITS'23)
-28. How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception (NeurIPS'23)
+1. Cooper: Cooperative perception for connected autonomous vehicles based on 3d point clouds (ICDCS'19) [[`pdf`](https://arxiv.org/abs/1905.05265)]
+2. F-Cooper: Feature based cooperative perception for autonomous vehicle edge computing system using 3D point clouds (SEC'19) [[`pdf`](https://arxiv.org/abs/1909.06459)]
+3. Who2com: Collaborative perception via learnable handshake communication (ICRA'20) [[`pdf`](https://arxiv.org/abs/2003.09575)]
+4. When2com: Multi-agent perception via communication graph grouping (CVPR'20) [[`pdf`](https://arxiv.org/abs/2006.00176)]
+5. V2VNet: Vehicle-to-Vehicle Communication for Joint Perception and Prediction (ECCV'20) [[`pdf`](https://arxiv.org/abs/2008.07519)]
+6. Cooperative perception for 3D object detection in driving scenarios using infrastructure sensors (TITS'20) [[`pdf`](https://arxiv.org/abs/1912.12147)]
+7. CoFF: Cooperative spatial feature fusion for 3-d object detection on autonomous vehicles (IoT'21) [[`pdf`](https://arxiv.org/abs/2009.11975)]
+8. Learning distilled collaboration graph for multi-agent perception (NeurIPS'21) [[`pdf`](https://arxiv.org/abs/2111.00643)]
+9. Multi-Robot Collaborative Perception with Graph Neural Networks (RAL'22) [[`pdf`](https://arxiv.org/abs/2201.01760)]
+10. Keypoints-Based Deep Feature Fusion for Cooperative Vehicle Detection of Autonomous Driving (RAL'22) [[`pdf`](https://arxiv.org/abs/2109.11615)]
+11. OPV2V: An open benchmark dataset and fusion pipeline for perception with vehicle-to-vehicle communication (ICRA'22) [[`pdf`](https://arxiv.org/abs/2109.07644)]
+12. DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection (CVPR'22) [[`pdf`](https://arxiv.org/abs/2204.05575)]
+13. COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles (CVPR'22) [[`pdf`](https://arxiv.org/abs/2205.02222)]
+14. V2X-ViT: Vehicle-to-everything cooperative perception with vision transformer (ECCV'22) [[`pdf`](https://arxiv.org/abs/2203.10638)]
+15. Complementarity-Enhanced and Redundancy-Minimized Collaboration Network for Multi-agent Perception (MM'22) [[`pdf`](https://dl.acm.org/doi/abs/10.1145/3503161.3548197)]
+16. CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers (CoRL'22) [[`pdf`](https://arxiv.org/abs/2207.02202)]
+17. Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps (NeurIPS'22) [[`pdf`](https://arxiv.org/abs/2209.12836)]
+18. Uncertainty Quantification of Collaborative Detection for Self-Driving (ICRA'23) [[`pdf`](https://arxiv.org/abs/2209.08162)]
+19. Collaboration Helps Camera Overtake LiDAR in 3D Detection (CVPR'23) [[`pdf`](https://arxiv.org/abs/2303.13560)]
+20. HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative perception with vision transformer (ICCV'23) [[`pdf`](https://arxiv.org/abs/2304.10628)]
+21. CORE: Cooperative Reconstruction for Multi-Agent Perception (ICCV'23) [[`pdf`](https://arxiv.org/abs/2307.11514)]
+22. Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception (ICCV'23) [[`pdf`](https://arxiv.org/abs/2307.13929)]
+23. TransIFF: An Instance-Level Feature Fusion Framework for Vehicle-Infrastructure Cooperative 3D Detection with Transformers (ICCV'23) [[`pdf`](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_TransIFF_An_Instance-Level_Feature_Fusion_Framework_for_Vehicle-Infrastructure_Cooperative_3D_ICCV_2023_paper.pdf)]
+24. UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework (ICCV'23) [[`pdf`](https://arxiv.org/abs/2303.12400)]
+25. HYDRO-3D: Hybrid Object Detection and Tracking for Cooperative Perception Using 3D LiDAR (TIV'23) [[`pdf`](https://ieeexplore.ieee.org/abstract/document/10148929)]
+26. MKD-Cooper: Cooperative 3D Object Detection for Autonomous Driving via Multi-teacher Knowledge Distillation (TIV'23) [[`pdf`](https://ieeexplore.ieee.org/abstract/document/10236578)]
+27. V2VFormer ++ : Multi-Modal Vehicle-to-Vehicle Cooperative Perception via Global-Local Transformer (TITS'23) [[`pdf`](https://ieeexplore.ieee.org/document/10265751/)]
+28. How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception (NeurIPS'23) [[`pdf`]]
 
 ### ArXiv
-1. [VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection](https://arxiv.org/abs/2303.10975) (arXiv'23)
-2. [QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception](https://arxiv.org/abs/2308.01804) (arXiv'23)
-3. [Select2Col: Leveraging Spatial-Temporal Importance of Semantic Information for Efficient Collaborative Perception](https://arxiv.org/abs/2307.16517) (arXiv'23)
-4. [Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation](https://arxiv.org/abs/2303.14346) (arXiv'23)
+1. VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection (arXiv'23) [[`pdf`](https://arxiv.org/abs/2303.10975)]
+2. QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception (arXiv'23) [[`pdf`](https://arxiv.org/abs/2308.01804)]
+3. Select2Col: Leveraging Spatial-Temporal Importance of Semantic Information for Efficient Collaborative Perception (arXiv'23) [[`pdf`](https://arxiv.org/abs/2307.16517)]
+4. Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation (arXiv'23) [[`pdf`](https://arxiv.org/abs/2303.14346)]
 
 
   
