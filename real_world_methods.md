@@ -60,5 +60,5 @@ Back to [Contents](README.md) 🔙
 17. Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection (NeurIPS'23)
 18. [Robust Asynchronous Collaborative 3D Detection via Bird’s Eye View Flow](https://arxiv.org/abs/2309.16940) (NeurIPS'23)
 
-## Preprint
+## ArXiv
 a1. [Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving](https://arxiv.org/abs/2304.11821) (arXiv'23)
