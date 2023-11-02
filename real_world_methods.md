@@ -29,6 +29,7 @@
 | FFNet [17]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | [Linkv](https://github.com/haibao-yu/FFNet-VIC3D)                                  |
 | CoBEVFlow [18]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | [Linko](https://github.com/MediaBrain-SJTU/CoBEVFlow)                                  |
 | How2comm [19]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | -                                |
+| FeaCo [20]             | MM'23         | LiDAR            | I                    | Loc, Pos             | -                | -                   | -                   | [Linko](https://github.com/jmgu0212/FeaCo)                 |
 | V2X-INCOP [a1]         | arXiv'23        | LiDAR            | I                    | -                     | Inter                | -                   | -                     | -               |
 
 Notes:
@@ -62,6 +63,7 @@ Back to [Contents](README.md) 🔙
 17. Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection (NeurIPS'23) [[`pdf`]] [[`code`](https://github.com/haibao-yu/FFNet-VIC3D)]
 18. Robust Asynchronous Collaborative 3D Detection via Bird’s Eye View Flow (NeurIPS'23) [[`pdf`](https://arxiv.org/abs/2309.16940)] [[`code`](https://github.com/MediaBrain-SJTU/CoBEVFlow)]
 19. How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception (NeurIPS'23) [[`pdf`]]
+20. FeaCo: Reaching Robust Feature-Level Consensus in Noisy Pose Conditions (MM'23) [[`pdf`](https://dl.acm.org/doi/abs/10.1145/3581783.3611880)]
 
 ### ArXiv
 1. Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving (arXiv'23) [[`pdf`](https://arxiv.org/abs/2304.11821)]
