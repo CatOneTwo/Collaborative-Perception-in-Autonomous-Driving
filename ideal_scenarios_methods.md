@@ -39,7 +39,7 @@
 | V2VFormer++ [27]        | TITS'23    | LiDAR, Camera         | I         | -              | -                |Atten             | -              |    -          |
 | How2comm [28]        | NeurIPS'23    | LiDAR          | I         | -              | Feat                |Atten (ST)            | -              |    -          |
 | What2comm [29]        | MM'23    | LiDAR          | I         | -              | Feat                |Atten (ST)            | -              |    -          |
-| BM2CP [30]        | CoRL'23    | LiDAR, Camera          | I         | -              | Feat                |Atten            | -              |    -          |
+| BM2CP [30]        | CoRL'23    | LiDAR, Camera          | I         | -              | Feat                |Atten            | -              |  [Linko](https://github.com/byzhaoAI/BM2CP)      |
 | VIMI [a1]         | arXiv'23   | Camera        | I            | -                 | -                | Atten             | -               | [Linkv](https://github.com/bosszhe/vimi)                            |
 | QUEST [a2]        | arXiv'23    | Camera         | I, L            | -                 | Feat                |Atten   | -               |         -        |
 | Select2Col [a3]        | arXiv'23    | LiDAR         | I           | -                 | Agent                |Atten (ST)   | -               | [Linko](https://github.com/huangqzj/select2col)  |
@@ -87,7 +87,7 @@ Back to [Contents](README.md) 🔙
 27. V2VFormer ++ : Multi-Modal Vehicle-to-Vehicle Cooperative Perception via Global-Local Transformer (TITS'23) [[`pdf`](https://ieeexplore.ieee.org/document/10265751/)]
 28. How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception (NeurIPS'23) [[`pdf`]]
 29. What2comm: Towards Communication-efficient Collaborative Perception via Feature Decoupling (MM'23) [[`pdf`](https://dl.acm.org/doi/10.1145/3581783.3611699)]
-30. BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities (CoRL'23) [[`pdf`](https://openreview.net/forum?id=uJqxFjF1xWp)]
+30. BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities (CoRL'23) [[`pdf`](https://openreview.net/forum?id=uJqxFjF1xWp)] [[`code`](https://github.com/byzhaoAI/BM2CP)]
 
 ### ArXiv
 1. VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection (arXiv'23) [[`pdf`](https://arxiv.org/abs/2303.10975)] [[`code`](https://github.com/bosszhe/vimi)]
