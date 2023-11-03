@@ -31,6 +31,7 @@
 | How2comm [19]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | -                                |
 | FeaCo [20]             | MM'23         | LiDAR            | I                    | Loc, Pos             | -                | -                   | -                   | [Linko](https://github.com/jmgu0212/FeaCo)                 |
 | V2X-INCOP [a1]         | arXiv'23        | LiDAR            | I                    | -                     | Inter                | -                   | -                     | -               |
+| MADE [a2]         | arXiv'23        | LiDAR            | I                    | -                     | -                | -                   | Attack                     | -               |
 
 Notes:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -67,3 +68,4 @@ Back to [Contents](README.md) 🔙
 
 ### ArXiv
 1. Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving (arXiv'23) [[`pdf`](https://arxiv.org/abs/2304.11821)]
+2. Malicious Agent Detection for Robust Multi-Agent Collaborative Perception. (arXiv'23) [[`pdf`](https://arxiv.org/abs/2304.11821)]
