@@ -37,7 +37,7 @@
 | HYDRO-3D [25]        | TIV'23    | LiDAR         | I         | -                 | -                |Atten (ST)             | -              |    - |
 | MKD-Cooper [26]        | TIV'23    | LiDAR         | I         | Raw                 | -                |Atten             | -              |    [Linko](https://github.com/EricLee523/MKD-Cooper)|
 | V2VFormer++ [27]        | TITS'23    | LiDAR, Camera         | I         | -              | -                |Atten             | -              |    -          |
-| How2comm [28]        | NeurIPS'23    | LiDAR          | I         | -              | Feat                |Atten (ST)            | -              |    -          |
+| How2comm [28]        | NeurIPS'23    | LiDAR          | I         | -              | Feat                |Atten (ST)            | -              |   [Linko](https://github.com/ydk122024/How2comm)|
 | What2comm [29]        | MM'23    | LiDAR          | I         | -              | Feat                |Atten (ST)            | -              |    -          |
 | BM2CP [30]        | CoRL'23    | LiDAR, Camera          | I         | -              | Feat                |Atten            | -              |  [Linko](https://github.com/byzhaoAI/BM2CP)      |
 | VIMI [a1]         | arXiv'23   | Camera        | I            | -                 | -                | Atten             | -               | [Linkv](https://github.com/bosszhe/vimi)                            |
@@ -85,7 +85,7 @@ Back to [Contents](README.md) 🔙
 25. HYDRO-3D: Hybrid Object Detection and Tracking for Cooperative Perception Using 3D LiDAR (TIV'23) [[`pdf`](https://ieeexplore.ieee.org/abstract/document/10148929)]
 26. MKD-Cooper: Cooperative 3D Object Detection for Autonomous Driving via Multi-teacher Knowledge Distillation (TIV'23) [[`pdf`](https://ieeexplore.ieee.org/abstract/document/10236578)] [[`code`](https://github.com/EricLee523/MKD-Cooper)]
 27. V2VFormer ++ : Multi-Modal Vehicle-to-Vehicle Cooperative Perception via Global-Local Transformer (TITS'23) [[`pdf`](https://ieeexplore.ieee.org/document/10265751/)]
-28. How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception (NeurIPS'23) [[`pdf`]]
+28. How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception (NeurIPS'23) [[`pdf`](https://openreview.net/forum?id=Dbaxm9ujq6)] [[`code`](https://github.com/ydk122024/How2comm)]
 29. What2comm: Towards Communication-efficient Collaborative Perception via Feature Decoupling (MM'23) [[`pdf`](https://dl.acm.org/doi/10.1145/3581783.3611699)]
 30. BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities (CoRL'23) [[`pdf`](https://openreview.net/forum?id=uJqxFjF1xWp)] [[`code`](https://github.com/byzhaoAI/BM2CP)]
 
