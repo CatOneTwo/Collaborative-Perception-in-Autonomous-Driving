@@ -28,7 +28,7 @@
 | ROBOSAC [16]           | ICCV'23         | LiDAR            | I                    | -                     | -                    | -                   | Attack               | [Linkc](https://github.com/coperception/ROBOSAC)                                  |
 | FFNet [17]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | [Linkv](https://github.com/haibao-yu/FFNet-VIC3D)                                  |
 | CoBEVFlow [18]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | [Linko](https://github.com/MediaBrain-SJTU/CoBEVFlow)                                  |
-| How2comm [19]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | -                                |
+| How2comm [19]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -         |     [Linko](https://github.com/ydk122024/How2comm)   |
 | FeaCo [20]             | MM'23         | LiDAR            | I                    | Loc, Pos             | -                | -                   | -                   | [Linko](https://github.com/jmgu0212/FeaCo)                 |
 | V2X-INCOP [a1]         | arXiv'23        | LiDAR            | I                    | -                     | Inter                | -                   | -                     | -               |
 | MADE [a2]         | arXiv'23        | LiDAR            | I                    | -                     | -                | -                   | Attack                     | -               |
@@ -61,9 +61,9 @@ Back to [Contents](README.md) 🔙
 14. A Cooperative Perception System Robust to Localization Errors (IV'23) [[`pdf`](https://arxiv.org/abs/2210.06289)]
 15. Achieving Lightweight and Privacy-Preserving Object Detection for Connected Autonomous Vehicles (IoT'23) [[`pdf`](https://ieeexplore.ieee.org/document/9913215)]
 16. Among Us: Adversarially Robust Collaborative Perception by Consensus (ICCV'23) [[`pdf`](https://arxiv.org/abs/2303.09495)] [[`code`](https://github.com/coperception/ROBOSAC)]
-17. Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection (NeurIPS'23) [[`pdf`]] [[`code`](https://github.com/haibao-yu/FFNet-VIC3D)]
+17. Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection (NeurIPS'23) [[`pdf`](https://openreview.net/forum?id=gsglrhvQxX)] [[`code`](https://github.com/haibao-yu/FFNet-VIC3D)]
 18. Robust Asynchronous Collaborative 3D Detection via Bird’s Eye View Flow (NeurIPS'23) [[`pdf`](https://arxiv.org/abs/2309.16940)] [[`code`](https://github.com/MediaBrain-SJTU/CoBEVFlow)]
-19. How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception (NeurIPS'23) [[`pdf`]]
+19. How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception (NeurIPS'23) [[`pdf`](https://openreview.net/forum?id=Dbaxm9ujq6)] [[`code`](https://github.com/ydk122024/How2comm)]
 20. FeaCo: Reaching Robust Feature-Level Consensus in Noisy Pose Conditions (MM'23) [[`pdf`](https://dl.acm.org/doi/abs/10.1145/3581783.3611880)]
 
 ### ArXiv
