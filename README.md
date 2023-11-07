@@ -55,10 +55,14 @@ This repo is constructed for collecting and categorizing papers about collaborat
 If you find this work useful, please cite our paper:
 ```
 @article{han2023collaborative,
-  title={Collaborative perception in autonomous driving: Methods, datasets and challenges},
   author={Han, Yushan and Zhang, Hui and Li, Huifang and Jin, Yi and Lang, Congyan and Li, Yidong},
-  journal={arXiv preprint arXiv:2301.06262},
-  year={2023}
-}
+  journal={IEEE Intelligent Transportation Systems Magazine}, 
+  title={Collaborative Perception in Autonomous Driving: Methods, Datasets, and Challenges}, 
+  year={2023},
+  volume={15},
+  number={6},
+  pages={131-151},
+  doi={10.1109/MITS.2023.3298534}}
+
 ```
 
