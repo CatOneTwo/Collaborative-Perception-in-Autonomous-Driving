@@ -11,6 +11,8 @@
 ## Others
 - Model Adaptation
   - MACP [5]
+- Open Heterogeneous Collaborative Perception
+  - HEAL [6]
 
 
 ## References:
@@ -19,4 +21,5 @@
 3.  S2R-ViT for Multi-Agent Cooperative Perception: Bridging the Gap from Simulation to Reality (*arXiv'23*) [[`pdf`](https://arxiv.org/abs/2307.07935)]
 4.  DUSA: Decoupled Unsupervised Sim2Real Adaptation for Vehicle-to-Everything Collaborative Perception (*MM'23*) [[`pdf`](https://dl.acm.org/doi/10.1145/3581783.3611948)] [[`code`](https://github.com/refkxh/DUSA)]
 5.  MACP: Efficient Model Adaptation for Cooperative Perception (*WACV'24*) [[`pdf`](https://arxiv.org/abs/2310.16870)] [[`code`](https://github.com/PurdueDigitalTwin/MACP)]
+6.  HEAL: An Extensible Framework for Open Heterogeneous Collaborative Perception (*ICLR'24*) [[`pdf`](https://openreview.net/forum?id=KkrDUGIASk)] [[`code`](https://github.com/yifanlu0227/HEAL)]
 
