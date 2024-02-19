@@ -9,8 +9,8 @@
 - **Open Heterogeneous Collaborative Perception**
   - HEAL [6]
 - **New Perception Tasks**
-  - Multi-Object Cooperative Tracking: DMSTrack [7]
-  - Collaborative Semantic Occupancy Prediction: CoHFF [8]
+  - Multi-Object Cooperative Tracking: DMSTrack [7], MOT-CUP [8]
+  - Collaborative Semantic Occupancy Prediction: CoHFF [9]
 
 
 ## References
@@ -21,5 +21,6 @@
 5.  MACP: Efficient Model Adaptation for Cooperative Perception (*WACV'24*) [[`pdf`](https://arxiv.org/abs/2310.16870)] [[`code`](https://github.com/PurdueDigitalTwin/MACP)]
 6.  HEAL: An Extensible Framework for Open Heterogeneous Collaborative Perception (*ICLR'24*) [[`pdf`](https://openreview.net/forum?id=KkrDUGIASk)] [[`code`](https://github.com/yifanlu0227/HEAL)]
 7.  Probabilistic 3D Multi-Object Cooperative Tracking for Autonomous Driving via Differentiable Multi-Sensor Kalman Filter (*ICRA'24*) [[`pdf`](https://arxiv.org/abs/2309.14655)] [[`code`](https://github.com/eddyhkchiu/DMSTrack)]
-8.  Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles (*arXiv'24*) [[`pdf`](https://arxiv.org/abs/2402.07635)]
+8.  Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation (*RAL'24*) [[`pdf`](https://arxiv.org/abs/2303.14346)] [[`code`](https://github.com/susanbao/mot_cup)]
+9.  Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles (*arXiv'24*) [[`pdf`](https://arxiv.org/abs/2402.07635)]
 
