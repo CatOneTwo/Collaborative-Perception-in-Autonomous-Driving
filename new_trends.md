@@ -1,15 +1,16 @@
 
 ## New Trends
-- Label Efficient
+- **Label Efficient**
   - Unsupervised / Self-supervised learning: CO3 [1] 
   - Weakly supervised learning: SSC3OD [2]
   - Domain adaption: S2R-ViT [3], DUSA [4]
-- Model Adaptation
+- **Model Adaptation**
   - MACP [5]
-- Open Heterogeneous Collaborative Perception
+- **Open Heterogeneous Collaborative Perception**
   - HEAL [6]
-- Multi-Object Cooperative Tracking
-  - DMSTrack [7]
+- **New Perception Tasks**
+  - Multi-Object Cooperative Tracking: DMSTrack [7]
+  - Collaborative Semantic Occupancy Prediction: CoHFF [8]
 
 
 ## References
@@ -20,4 +21,5 @@
 5.  MACP: Efficient Model Adaptation for Cooperative Perception (*WACV'24*) [[`pdf`](https://arxiv.org/abs/2310.16870)] [[`code`](https://github.com/PurdueDigitalTwin/MACP)]
 6.  HEAL: An Extensible Framework for Open Heterogeneous Collaborative Perception (*ICLR'24*) [[`pdf`](https://openreview.net/forum?id=KkrDUGIASk)] [[`code`](https://github.com/yifanlu0227/HEAL)]
 7.  Probabilistic 3D Multi-Object Cooperative Tracking for Autonomous Driving via Differentiable Multi-Sensor Kalman Filter (*ICRA'24*) [[`pdf`](https://arxiv.org/abs/2309.14655)] [[`code`](https://github.com/eddyhkchiu/DMSTrack)]
+8.  Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles (*arXiv'24*) [[`pdf`](https://arxiv.org/abs/2402.07635)]
 
