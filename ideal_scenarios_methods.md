@@ -41,10 +41,10 @@
 | What2comm [29]        | MM'23    | LiDAR          | I         | -              | Feat                |Atten (ST)            | -              |    -          |
 | BM2CP [30]        | CoRL'23    | LiDAR, Camera          | I         | -              | Feat                |Atten            | -              |  [Linko](https://github.com/byzhaoAI/BM2CP)      |
 | DI-V2X [31]        | AAAI'24    | LiDAR          | I         | Raw              | Feat                |Atten            | -              |  -|
+| QUEST [32]        | ICRA'24    | Camera         | I, L            | -                 | Feat                |Atten   | -               |         -        |
 | VIMI [a1]         | arXiv'23   | Camera        | I            | -                 | -                | Atten             | -               | [Linkv](https://github.com/bosszhe/vimi)                            |
-| QUEST [a2]        | arXiv'23    | Camera         | I, L            | -                 | Feat                |Atten   | -               |         -        |
-| Select2Col [a3]        | arXiv'23    | LiDAR         | I           | -                 | Agent                |Atten (ST)   | -               | [Linko](https://github.com/huangqzj/select2col)  |
-| MOT-CUP [a4]        | arXiv'23    | LiDAR         | E, I, L     | -                 | -                |-             | Uncert             |      [Linkc](https://github.com/susanbao/mot_cup)    |
+| Select2Col [a2]        | arXiv'23    | LiDAR         | I           | -                 | Agent                |Atten (ST)   | -               | [Linko](https://github.com/huangqzj/select2col)  |
+| MOT-CUP [a3]        | arXiv'23    | LiDAR         | E, I, L     | -                 | -                |-             | Uncert             |      [Linkc](https://github.com/susanbao/mot_cup)    |
 
 
 Note:
@@ -90,12 +90,12 @@ Back to [Contents](README.md) 🔙
 29. What2comm: Towards Communication-efficient Collaborative Perception via Feature Decoupling (MM'23) [[`pdf`](https://dl.acm.org/doi/10.1145/3581783.3611699)]
 30. BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities (CoRL'23) [[`pdf`](https://openreview.net/forum?id=uJqxFjF1xWp)] [[`code`](https://github.com/byzhaoAI/BM2CP)]
 31. DI-V2X: Learning Domain-Invariant Representation for Vehicle-Infrastructure Collaborative 3D Object Detection (AAAI'24) [[`pdf`](https://arxiv.org/abs/2312.15742)]
+32. QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception (ICRA'24) [[`pdf`](https://arxiv.org/abs/2308.01804)] 
 
 ### ArXiv
 1. VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection (arXiv'23) [[`pdf`](https://arxiv.org/abs/2303.10975)] [[`code`](https://github.com/bosszhe/vimi)]
-2. QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception (arXiv'23) [[`pdf`](https://arxiv.org/abs/2308.01804)] 
-3. Select2Col: Leveraging Spatial-Temporal Importance of Semantic Information for Efficient Collaborative Perception (arXiv'23) [[`pdf`](https://arxiv.org/abs/2307.16517)] [[`code`](https://github.com/huangqzj/select2col)]
-4. Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation (arXiv'23) [[`pdf`](https://arxiv.org/abs/2303.14346)] [[`code`](https://github.com/susanbao/mot_cup)]
+2. Select2Col: Leveraging Spatial-Temporal Importance of Semantic Information for Efficient Collaborative Perception (arXiv'23) [[`pdf`](https://arxiv.org/abs/2307.16517)] [[`code`](https://github.com/huangqzj/select2col)]
+3. Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation (arXiv'23) [[`pdf`](https://arxiv.org/abs/2303.14346)] [[`code`](https://github.com/susanbao/mot_cup)]
 
 
   
