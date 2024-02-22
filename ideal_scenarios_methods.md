@@ -90,7 +90,7 @@ Back to [Contents](README.md) 🔙
 29. What2comm: Towards Communication-efficient Collaborative Perception via Feature Decoupling (MM'23) [[`pdf`](https://dl.acm.org/doi/10.1145/3581783.3611699)]
 30. BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities (CoRL'23) [[`pdf`](https://openreview.net/forum?id=uJqxFjF1xWp)] [[`code`](https://github.com/byzhaoAI/BM2CP)]
 31. DI-V2X: Learning Domain-Invariant Representation for Vehicle-Infrastructure Collaborative 3D Object Detection (AAAI'24) [[`pdf`](https://arxiv.org/abs/2312.15742)]
-32. QUEST: Query Stream for Vehicle-Infrastructure Cooperative Perception (ICRA'24) [[`pdf`](https://arxiv.org/abs/2308.01804)] 
+32. QUEST: Query Stream for Practical Cooperative Perception (ICRA'24) [[`pdf`](https://arxiv.org/abs/2308.01804)] 
 
 ### ArXiv
 1. VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection (arXiv'23) [[`pdf`](https://arxiv.org/abs/2303.10975)] [[`code`](https://github.com/bosszhe/vimi)]
