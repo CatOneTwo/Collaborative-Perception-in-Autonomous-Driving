@@ -14,7 +14,7 @@
 | DOLPHINS [6]     | ACCV'22   | Simu       | 42k       | &#10004; | &#10004; | 3          | &#10004;   | &#10004;  | -         |  &#10004; | -         | -         | -         | [Link](https://dolphins-dataset.net)                 |
 | V2V4Real [7]     | CVPR'23   | Real       | 20K       | &#10004; | -        | 2          | &#10004;   | &#10004;  | -         |  &#10004; | -         |  &#10004; | -         | [Link](https://mobility-lab.seas.ucla.edu/v2v4real/) |
 | V2X-Seq [8]      | CVPR'23   | Real       | 15k       | -        | &#10004; | 2          | &#10004;   | &#10004;  | -         |  &#10004; | -         |  &#10004; |  &#10004; | [Link](https://thudair.baai.ac.cn/coop-forecast)     |
-| DeepAccident [9] | arXiv'23  | Simu       | 57K       | &#10004; | &#10004; | 1-5        | &#10004;   | &#10004;  | -         |  &#10004; |  &#10004; |  &#10004; |  &#10004; | [Link](https://deepaccident.github.io/index.html)    |
+| DeepAccident [9] | AAAI'24  | Simu       | 57K       | &#10004; | &#10004; | 1-5        | &#10004;   | &#10004;  | -         |  &#10004; |  &#10004; |  &#10004; |  &#10004; | [Link](https://deepaccident.github.io/index.html)    |
 | HoloVIC [10] | CVPR'24  | Real       | 100K       | -             | &#10004; | 2        | &#10004;   | &#10004;  | -         |  &#10004; |  -       |  &#10004; |  - | [Link](https://holovic.net/)    |
 | TUMTraf-V2X [11] | arXiv'24  | Real       | 2K       | -             | &#10004; | 2        | &#10004;   | &#10004;  | -         |  &#10004; |  -       |  &#10004; |  - | [Link](https://tum-traffic-dataset.github.io/tumtraf-v2x/)    |
 
@@ -35,7 +35,7 @@ References:
 6. [DOLPHINS: Dataset for Collaborative Perception enabled Harmonious and Interconnected Self-driving](https://arxiv.org/abs/2207.07609) (ACCV'22)
 7. [V2V4Real: A Real-world Large-scale Dataset for Vehicle-to-Vehicle Cooperative Perception](https://arxiv.org/abs/2303.07601) (CVPR'23)
 8. [V2X-Seq: A large-scale sequential dataset for vehicle-infrastructure cooperative perception and forecasting](https://arxiv.org/abs/2305.05938) (CVPR'23)
-9. [DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving](https://arxiv.org/abs/2304.01168) (arXiv'23)
+9. [DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving](https://arxiv.org/abs/2304.01168) (AAAI'24)
 10. [HoloVIC: Large-scale Dataset and Benchmark for Multi-Sensor Holographic Intersection and Vehicle-Infrastructure Cooperative](https://arxiv.org/abs/2403.02640) (CVPR'24)
 11. [TUMTraf V2X Cooperative Perception Dataset](https://arxiv.org/abs/2403.01316) (arXiv'24)
    
