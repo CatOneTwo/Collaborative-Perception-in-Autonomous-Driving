@@ -16,7 +16,8 @@
 | V2X-Seq [8]      | CVPR'23   | Real       | 15k       | -        | &#10004; | 2          | &#10004;   | &#10004;  | -         |  &#10004; | -         |  &#10004; |  &#10004; | [Link](https://thudair.baai.ac.cn/coop-forecast)     |
 | DeepAccident [9] | AAAI'24  | Simu       | 57K       | &#10004; | &#10004; | 1-5        | &#10004;   | &#10004;  | -         |  &#10004; |  &#10004; |  &#10004; |  &#10004; | [Link](https://deepaccident.github.io/index.html)    |
 | HoloVIC [10] | CVPR'24  | Real       | 100K       | -             | &#10004; | 2        | &#10004;   | &#10004;  | -         |  &#10004; |  -       |  &#10004; |  - | [Link](https://holovic.net/)    |
-| TUMTraf-V2X [11] | arXiv'24  | Real       | 2K       | -             | &#10004; | 2        | &#10004;   | &#10004;  | -         |  &#10004; |  -       |  &#10004; |  - | [Link](https://tum-traffic-dataset.github.io/tumtraf-v2x/)    |
+| TUMTraf-V2X [11] | CVPR'24  | Real       | 2K       | -             | &#10004; | 2        | &#10004;   | &#10004;  | -         |  &#10004; |  -       |  &#10004; |  - | [Link](https://tum-traffic-dataset.github.io/tumtraf-v2x/)    |
+| R-Cooper [12] | CVPR'24  | Real       | 30K       | -             | - | 2        | &#10004;   | &#10004;  | -         |  &#10004; |  -       |  &#10004; |  - | [Link](https://tum-traffic-dataset.github.io/tumtraf-v2x/)    |
 
 Notes:
 - Source: simulator (Simu) and real-world (Real).
@@ -37,5 +38,6 @@ References:
 8. [V2X-Seq: A large-scale sequential dataset for vehicle-infrastructure cooperative perception and forecasting](https://arxiv.org/abs/2305.05938) (CVPR'23)
 9. [DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving](https://arxiv.org/abs/2304.01168) (AAAI'24)
 10. [HoloVIC: Large-scale Dataset and Benchmark for Multi-Sensor Holographic Intersection and Vehicle-Infrastructure Cooperative](https://arxiv.org/abs/2403.02640) (CVPR'24)
-11. [TUMTraf V2X Cooperative Perception Dataset](https://arxiv.org/abs/2403.01316) (arXiv'24)
+11. [TUMTraf V2X Cooperative Perception Dataset](https://arxiv.org/abs/2403.01316) (CVPR'24)
+12. [RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception](https://arxiv.org/abs/2403.10145) (CVPR'24)
    
