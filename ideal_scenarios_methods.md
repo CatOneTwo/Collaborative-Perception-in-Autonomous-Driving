@@ -42,7 +42,7 @@
 | BM2CP [30]        | CoRL'23    | LiDAR, Camera          | I         | -              | Feat                |Atten            | -              |  [Linko](https://github.com/byzhaoAI/BM2CP)      |
 | DI-V2X [31]        | AAAI'24    | LiDAR          | I         | Raw              | Feat                |Atten            | -              |  [Linko](https://github.com/Serenos/DI-V2X) |
 | QUEST [32]        | ICRA'24    | Camera         | I, L            | -                 | Feat                |Atten   | -               |         -        |
-| CMiMC [33]        | AAAI'24    | LiDAR          | I         | -              | Feat                |Atten            | -              |  [Linkc](https://github.com/77SWF/CMiMC)|
+| CMiMC [33]        | AAAI'24    | LiDAR          | I         | -              | Feat                |-            | ✔️             |  [Linkc](https://github.com/77SWF/CMiMC)|
 | Select2Col [34]        | TVT'24    | LiDAR         | I           | -                 | Agent                |Atten (ST)   | -               | [Linko](https://github.com/huangqzj/select2col)  |
 | MOT-CUP [35]        | RAL'24    | LiDAR         | E, I, L     | -                 | -                |-             | Uncert             |      [Linkc](https://github.com/susanbao/mot_cup)    |
 | VIMI [a1]         | arXiv'23   | Camera        | I            | -                 | -                | Atten             | -               | [Linkv](https://github.com/bosszhe/vimi)                            |
