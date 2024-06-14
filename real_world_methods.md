@@ -30,6 +30,8 @@
 | CoBEVFlow [18]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -                   | [Linko](https://github.com/MediaBrain-SJTU/CoBEVFlow)                                  |
 | How2comm [19]             | NeurIPS'23         | LiDAR            | I                    | -                     | Laten                | -                   | -         |     [Linko](https://github.com/ydk122024/How2comm)   |
 | FeaCo [20]             | MM'23         | LiDAR            | I                    | Loc, Pos             | -                | -                   | -                   | [Linko](https://github.com/jmgu0212/FeaCo)                 |
+| ERMVP [21]             | CVPR'24         | LiDAR            | I                    | Loc, Pos             | -                | -                   | -                   | [Linko](https://github.com/Terry9a/ERMVP)                |
+| MRCNet [22]             | CVPR'24         | LiDAR            | I                    | Loc, Pos             | -                | -                   | -                   | [Linko](https://github.com/IndigoChildren/collaborative-perception-MRCNet)                |
 | V2X-INCOP [a1]         | arXiv'23        | LiDAR            | I                    | -                     | Inter                | -                   | -                     | -               |
 | MADE [a2]         | arXiv'23        | LiDAR            | I                    | -                     | -                | -                   | Attack                     | -               |
 
@@ -65,6 +67,8 @@ Back to [Contents](README.md) 🔙
 18. Robust Asynchronous Collaborative 3D Detection via Bird’s Eye View Flow (NeurIPS'23) [[`pdf`](https://arxiv.org/abs/2309.16940)] [[`code`](https://github.com/MediaBrain-SJTU/CoBEVFlow)]
 19. How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception (NeurIPS'23) [[`pdf`](https://openreview.net/forum?id=Dbaxm9ujq6)] [[`code`](https://github.com/ydk122024/How2comm)]
 20. FeaCo: Reaching Robust Feature-Level Consensus in Noisy Pose Conditions (MM'23) [[`pdf`](https://dl.acm.org/doi/abs/10.1145/3581783.3611880)]
+21. ERMVP: Communication-Efﬁcient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments (CVPR'24) [[`pdf`](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ERMVP_Communication-Efficient_and_Collaboration-Robust_Multi-Vehicle_Perception_in_Challenging_Environments_CVPR_2024_paper.pdf)]
+22. Multi-agent Collaborative Perception via Motion-aware Robust Communication Network CVPR'24) [[`pdf`](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_Multi-agent_Collaborative_Perception_via_Motion-aware_Robust_Communication_Network_CVPR_2024_paper.pdf)]
 
 ### ArXiv
 1. Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving (arXiv'23) [[`pdf`](https://arxiv.org/abs/2304.11821)]
