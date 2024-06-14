@@ -18,6 +18,7 @@
 | HoloVIC [10] | CVPR'24  | Real       | 100K       | -             | &#10004; | 2        | &#10004;   | &#10004;  | -         |  &#10004; |  -       |  &#10004; |  - | [Link](https://holovic.net/)    |
 | TUMTraf-V2X [11] | CVPR'24  | Real       | 2K       | -             | &#10004; | 2        | &#10004;   | &#10004;  | -         |  &#10004; |  -       |  &#10004; |  - | [Link](https://tum-traffic-dataset.github.io/tumtraf-v2x/)    |
 | R-Cooper [12] | CVPR'24  | Real       | 30K       | -             | - | 2        | &#10004;   | &#10004;  | -         |  &#10004; |  -       |  &#10004; |  - | [Link](https://tum-traffic-dataset.github.io/tumtraf-v2x/)    |
+| MARS [13] | CVPR'24  | Real       | 1.5k     | &#10004;           | - | 2-3        | &#10004;   | &#10004;  | -         |  -|  -       |-|  - | [Link](https://ai4ce.github.io/MARS/)    |
 
 Notes:
 - Source: simulator (Simu) and real-world (Real).
@@ -40,4 +41,5 @@ References:
 10. [HoloVIC: Large-scale Dataset and Benchmark for Multi-Sensor Holographic Intersection and Vehicle-Infrastructure Cooperative](https://arxiv.org/abs/2403.02640) (CVPR'24)
 11. [TUMTraf V2X Cooperative Perception Dataset](https://arxiv.org/abs/2403.01316) (CVPR'24)
 12. [RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception](https://arxiv.org/abs/2403.10145) (CVPR'24)
+13. [Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Multiagent_Multitraversal_Multimodal_Self-Driving_Open_MARS_Dataset_CVPR_2024_paper.pdf) (CVPR'24)
    
