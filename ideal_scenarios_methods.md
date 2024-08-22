@@ -45,6 +45,7 @@
 | CMiMC [33]        | AAAI'24    | LiDAR          | I         | -              | Feat                |-            | ✔️             |  [Linkc](https://github.com/77SWF/CMiMC)|
 | Select2Col [34]        | TVT'24    | LiDAR         | I           | -                 | Agent                |Atten (ST)   | -               | [Linko](https://github.com/huangqzj/select2col)  |
 | MOT-CUP [35]        | RAL'24    | LiDAR         | E, I, L     | -                 | -                |-             | Uncert             |      [Linkc](https://github.com/susanbao/mot_cup)    |
+| CodeFilling [36]        | CVPR'24    | LiDAR, Camera     | I     | -                 | Feat                | Trad             | -             |      [Linko](https://github.com/PhyllisH/CodeFilling)    |
 | VIMI [a1]         | arXiv'23   | Camera        | I            | -                 | -                | Atten             | -               | [Linkv](https://github.com/bosszhe/vimi)                            |
 
 
@@ -95,6 +96,7 @@ Back to [Contents](README.md) 🔙
 33. What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception (AAAI'24) [[`pdf`](https://arxiv.org/abs/2403.10068)] [[`code`](https://github.com/77SWF/CMiMC)]
 34. Select2Col: Leveraging Spatial-Temporal Importance of Semantic Information for Efficient Collaborative Perception (TVT'24) [[`pdf`](https://arxiv.org/abs/2307.16517)] [[`code`](https://github.com/huangqzj/select2col)]
 35. Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation (RAL'24) [[`pdf`](https://arxiv.org/abs/2303.14346)] [[`code`](https://github.com/susanbao/mot_cup)]
+36. Communication-Efficient Collaborative Perception via Information Filling with Codebook (CVPR'24) [[`pdf`](https://arxiv.org/abs/2405.04966)] [[`code`](https://github.com/PhyllisH/CodeFilling)]
 
 ### ArXiv
 1. VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection (arXiv'23) [[`pdf`](https://arxiv.org/abs/2303.10975)] [[`code`](https://github.com/bosszhe/vimi)]
