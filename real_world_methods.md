@@ -33,6 +33,8 @@
 | ERMVP [21]             | CVPR'24         | LiDAR            | I                    | Loc, Pos             | -                | -                   | -                   | [Linko](https://github.com/Terry9a/ERMVP) ![](https://img.shields.io/github/stars/Terry9a/ERMVP)                 |
 | MRCNet [22]             | CVPR'24         | LiDAR            | I                    | Loc, Pos             | -                | -                   | -                   | [Linko](https://github.com/IndigoChildren/collaborative-perception-MRCNet)![](https://img.shields.io/github/stars/IndigoChildren/collaborative-perception-MRCNet)               |
 | RoCo [23]             | MM'24         | LiDAR            | I                    | Loc, Pos             | -                | -                   | -                   | [Linko](https://github.com/HuangZhe885/RoCo) ![](https://img.shields.io/github/stars/HuangZhe885/RoCo)               |
+| PnPDA [24]             | ECCV'24         | LiDAR            | I                    | -            | -                | Model                  | -                   | [Linko](https://github.com/luotianyou349/PnPDA) ![](https://img.shields.io/github/stars/luotianyou349/PnPDA)               |
+| Hetecooper [25]             | ECCV'24         | LiDAR            | I                    | -            | -                | Model                  | -                   |           |
 | V2X-INCOP [a1]         | arXiv'23        | LiDAR            | I                    | -                     | Inter                | -                   | -                     | -               |
 | MADE [a2]         | arXiv'23        | LiDAR            | I                    | -                     | -                | -                   | Attack                     | -               |
 
@@ -71,6 +73,8 @@ Back to [Contents](README.md) 🔙
 21. ERMVP: Communication-Efﬁcient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments (CVPR'24) [[`pdf`](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ERMVP_Communication-Efficient_and_Collaboration-Robust_Multi-Vehicle_Perception_in_Challenging_Environments_CVPR_2024_paper.pdf)]
 22. Multi-agent Collaborative Perception via Motion-aware Robust Communication Network (CVPR'24) [[`pdf`](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_Multi-agent_Collaborative_Perception_via_Motion-aware_Robust_Communication_Network_CVPR_2024_paper.pdf)]
 23. RoCo: Robust Cooperative Perception By Iterative Object Matching and Pose Adjustment (MM'24) [[`pdf`](https://openreview.net/forum?id=TFFnsgu2Pr)]
+24. Plug and Play: A Representation Enhanced Domain Adapter for Collaborative Perception (ECCV'24) [[`pdf`](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10564.pdf)] [[`code`](https://github.com/luotianyou349/PnPDA)]
+25. Hetecooper: Feature Collaboration Graph for Heterogeneous Collaborative Perception (ECCV'24) [[`pdf`](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07071.pdf)]
 
 ### ArXiv
 1. Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving (arXiv'23) [[`pdf`](https://arxiv.org/abs/2304.11821)]
