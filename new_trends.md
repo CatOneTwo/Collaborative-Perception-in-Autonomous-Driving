@@ -11,6 +11,7 @@
 - **New Perception Tasks**
   - Multi-Object Cooperative Tracking: DMSTrack [7], MOT-CUP [8]
   - Collaborative Semantic Occupancy Prediction: CoHFF [9]
+  - Cooperative Trajectory: V2X-Graph [10]
 
 
 ## References
@@ -23,4 +24,5 @@
 7.  Probabilistic 3D Multi-Object Cooperative Tracking for Autonomous Driving via Differentiable Multi-Sensor Kalman Filter (*ICRA'24*) [[`pdf`](https://arxiv.org/abs/2309.14655)] [[`code`](https://github.com/eddyhkchiu/DMSTrack)] ![](https://img.shields.io/github/stars/eddyhkchiu/DMSTrack)
 8.  Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation (*RAL'24*) [[`pdf`](https://arxiv.org/abs/2303.14346)] [[`code`](https://github.com/susanbao/mot_cup)] ![](https://img.shields.io/github/stars/susanbao/mot_cup)
 9.  Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles (*CVPR'24*) [[`pdf`](https://arxiv.org/abs/2402.07635)] [[`code`](https://github.com/rruisong/CoHFF)] ![](https://img.shields.io/github/stars/rruisong/CoHFF)
+10.  Learning Cooperative Trajectory Representations for Motion Forecasting (*NeurIPS'24*) [[`pdf`](https://openreview.net/pdf?id=mcY221BgKi)] [[`code`](https://github.com/AIR-THU/V2X-Graph)] ![](https://img.shields.io/github/stars/AIR-THU/V2X-Graph)
 
