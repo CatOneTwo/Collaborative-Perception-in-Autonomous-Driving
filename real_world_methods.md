@@ -36,8 +36,9 @@
 | PnPDA [24]             | ECCV'24         | LiDAR            | I                    | -            | -                | Model                  | -                   | [Linko](https://github.com/luotianyou349/PnPDA) ![](https://img.shields.io/github/stars/luotianyou349/PnPDA)               |
 | Hetecooper [25]             | ECCV'24         | LiDAR            | I                    | -            | -                | Model                  | -                   |           |
 | NEAT [26]             | ECCV'24         | LiDAR            | I                    | Loc, Pos           | Laten               | -                  | -                   |           |
-| V2X-INCOP [a1]         | arXiv'23        | LiDAR            | I                    | -                     | Inter                | -                   | -                     | -               |
-| MADE [a2]         | arXiv'23        | LiDAR            | I                    | -                     | -                | -                   | Attack                     | -               |
+| V2X-INCOP [27]         | TIV'24        | LiDAR            | I                    | -                     | Inter                | -                   | -                     | -               |
+| MADE [28]         | IROS'24        | LiDAR            | I                    | -                     | -                | -                   | Attack                     | -               |
+| CP-Guard [29]         | AAAI'25        | LiDAR            | I                    | -                     | -                | -                   | Attack                     | -               |
 
 Notes:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -77,7 +78,6 @@ Back to [Contents](README.md) 🔙
 24. Plug and Play: A Representation Enhanced Domain Adapter for Collaborative Perception (ECCV'24) [[`pdf`](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10564.pdf)] [[`code`](https://github.com/luotianyou349/PnPDA)]
 25. Hetecooper: Feature Collaboration Graph for Heterogeneous Collaborative Perception (ECCV'24) [[`pdf`](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07071.pdf)]
 26. Align before Collaborate: Mitigating Feature Misalignment for Robust Multi-Agent Perception (ECCV'24) [[`pdf`](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00560.pdf)]
-
-### ArXiv
-1. Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving (arXiv'23) [[`pdf`](https://arxiv.org/abs/2304.11821)]
-2. Malicious Agent Detection for Robust Multi-Agent Collaborative Perception. (arXiv'23) [[`pdf`](https://arxiv.org/abs/2304.11821)]
+27. Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving (TIV'24) [[`pdf`](https://arxiv.org/abs/2304.11821)]
+28. Malicious Agent Detection for Robust Multi-Agent Collaborative Perception (IROS'24) [[`pdf`](https://arxiv.org/abs/2304.11821)]
+29. CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird’s Eye View Perception (AAAI'25) [[`pdf`](https://arxiv.org/abs/2412.12000)]
