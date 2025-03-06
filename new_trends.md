@@ -6,6 +6,7 @@
   - Domain adaption: S2R-ViT [3], DUSA [4]
 - **Model Adaptation**
   - MACP [5]
+  - CoPEFT [13]
 - **Open Heterogeneous Collaborative Perception**
   - HEAL [6]
 - **New Perception Tasks**
@@ -28,4 +29,5 @@
 10.  Learning Cooperative Trajectory Representations for Motion Forecasting (*NeurIPS'24*) [[`pdf`](https://openreview.net/pdf?id=mcY221BgKi)] [[`code`](https://github.com/AIR-THU/V2X-Graph)] ![](https://img.shields.io/github/stars/AIR-THU/V2X-Graph)
 11.  CoDTS: Enhancing Sparsely Supervised Collaborative Perception with a Dual Teacher-Student Framework (*AAAI'25*) [[`pdf`](https://arxiv.org/abs/2412.08344)]
 12.  DSRC: Learning Density-insensitive and Semantic-aware Collaborative Representation against Corruptions (*AAAI'25*) [[`pdf`](https://arxiv.org/abs/2412.10739)] [[`code`](https://github.com/Terry9a/DSRC)] ![](https://img.shields.io/github/stars/Terry9a/DSRC)
+13.  CoPEFT: Fast Adaptation Framework for Multi-Agent Collaborative Perception with Parameter-Efficient Fine-Tuning (*AAAI'25*) [[`pdf`](https://arxiv.org/abs/2502.10705)] [[`code`](https://github.com/fengxueguiren/CoPEFT)] ![](https://img.shields.io/github/stars/fengxueguiren/CoPEFT)
 
