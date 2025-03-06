@@ -39,6 +39,9 @@
 | V2X-INCOP [27]         | TIV'24        | LiDAR            | I                    | -                     | Inter                | -                   | -                     | -               |
 | MADE [28]         | IROS'24        | LiDAR            | I                    | -                     | -                | -                   | Attack                     | -               |
 | CP-Guard [29]         | AAAI'25        | LiDAR            | I                    | -                     | -                | -                   | Attack                     | -               |
+| PLDA [30]         | AAAI'25        | LiDAR            | I                    | -                     | -                | Model                   | -                     | -               |
+| BEVSync [31]         | AAAI'25        | LiDAR            | I                    | -                     | Laten                | -                   | -                     | -               |
+
 
 Notes:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -81,3 +84,6 @@ Back to [Contents](README.md) 🔙
 27. Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving (TIV'24) [[`pdf`](https://arxiv.org/abs/2304.11821)]
 28. Malicious Agent Detection for Robust Multi-Agent Collaborative Perception (IROS'24) [[`pdf`](https://arxiv.org/abs/2304.11821)]
 29. CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird’s Eye View Perception (AAAI'25) [[`pdf`](https://arxiv.org/abs/2412.12000)]
+30. Privacy-Preserving V2X Collaborative Perception Integrating Unknown Collaborators (AAAI'25)
+31. BEVSync: Asynchronous Data Alignment for Camera-based Vehicle-Infrastructure Cooperative Perception Under Uncertain Delays (AAAI'25)
+
