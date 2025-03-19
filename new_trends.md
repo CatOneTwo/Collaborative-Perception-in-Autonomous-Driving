@@ -14,7 +14,9 @@
   - Collaborative Semantic Occupancy Prediction: CoHFF [9]
   - Cooperative Trajectory: V2X-Graph [10]
 - **Extreme Environments**
-  - DSRC [12]
+  - DSRC [12], MDD [15]
+- **End-to-End Autonomous Driving**
+  - UniV2X [16]
 
 ## References
 1.  CO3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving (*ICLR'23*) [[`pdf`](https://arxiv.org/abs/2206.04028)] [[`code`](https://github.com/Runjian-Chen/CO3)] ![](https://img.shields.io/github/stars/Runjian-Chen/CO3) 
@@ -31,4 +33,6 @@
 12.  DSRC: Learning Density-insensitive and Semantic-aware Collaborative Representation against Corruptions (*AAAI'25*) [[`pdf`](https://arxiv.org/abs/2412.10739)] [[`code`](https://github.com/Terry9a/DSRC)] ![](https://img.shields.io/github/stars/Terry9a/DSRC)
 13.  CoPEFT: Fast Adaptation Framework for Multi-Agent Collaborative Perception with Parameter-Efficient Fine-Tuning (*AAAI'25*) [[`pdf`](https://arxiv.org/abs/2502.10705)] [[`code`](https://github.com/fengxueguiren/CoPEFT)] ![](https://img.shields.io/github/stars/fengxueguiren/CoPEFT)
 14.  Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels (*CVPR'25*) [[`pdf`](https://arxiv.org/abs/2503.08421)] [[`code`](https://github.com/xmuqimingxia/DOtA)] ![](https://img.shields.io/github/stars/xmuqimingxia/DOtA)
+15.  V2X-R: Cooperative LiDAR-4D Radar Fusion with Denoising Diffusion for 3D Object Detection (*CVPR'25*) [[`pdf`](https://arxiv.org/abs/2411.08402)] [[`code`](https://github.com/ylwhxht/V2X-R)] ![](https://img.shields.io/github/stars/ylwhxht/V2X-R)
+16.  End-to-End Autonomous Driving through V2X Cooperation (*AAAI'25*) [[`pdf`](https://arxiv.org/abs/2404.00717)] [[`code`](https://github.com/AIR-THU/UniV2X)] ![](https://img.shields.io/github/stars/AIR-THU/UniV2X)
 
