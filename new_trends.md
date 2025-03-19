@@ -1,8 +1,8 @@
 
 ## New Trends
 - **Label Efficient**
-  - Unsupervised / Self-supervised learning: CO3 [1] 
-  - Weakly supervised learning: SSC3OD [2], CoDTS [11]
+  - Unsupervised / Self-supervised learning: CO3 [1] , DOtA [14]
+  - Weakly / Sparsely supervised learning: SSC3OD [2], CoDTS [11]
   - Domain adaption: S2R-ViT [3], DUSA [4]
 - **Model Adaptation**
   - MACP [5]
@@ -27,7 +27,8 @@
 8.  Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation (*RAL'24*) [[`pdf`](https://arxiv.org/abs/2303.14346)] [[`code`](https://github.com/susanbao/mot_cup)] ![](https://img.shields.io/github/stars/susanbao/mot_cup)
 9.  Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles (*CVPR'24*) [[`pdf`](https://arxiv.org/abs/2402.07635)] [[`code`](https://github.com/rruisong/CoHFF)] ![](https://img.shields.io/github/stars/rruisong/CoHFF)
 10.  Learning Cooperative Trajectory Representations for Motion Forecasting (*NeurIPS'24*) [[`pdf`](https://openreview.net/pdf?id=mcY221BgKi)] [[`code`](https://github.com/AIR-THU/V2X-Graph)] ![](https://img.shields.io/github/stars/AIR-THU/V2X-Graph)
-11.  CoDTS: Enhancing Sparsely Supervised Collaborative Perception with a Dual Teacher-Student Framework (*AAAI'25*) [[`pdf`](https://arxiv.org/abs/2412.08344)]
+11.  CoDTS: Enhancing Sparsely Supervised Collaborative Perception with a Dual Teacher-Student Framework (*AAAI'25*) [[`pdf`](https://arxiv.org/abs/2412.08344)] [[`code`](https://github.com/CatOneTwo/CoDTS)] ![](https://img.shields.io/github/stars/CatOneTwo/CoDTS)
 12.  DSRC: Learning Density-insensitive and Semantic-aware Collaborative Representation against Corruptions (*AAAI'25*) [[`pdf`](https://arxiv.org/abs/2412.10739)] [[`code`](https://github.com/Terry9a/DSRC)] ![](https://img.shields.io/github/stars/Terry9a/DSRC)
 13.  CoPEFT: Fast Adaptation Framework for Multi-Agent Collaborative Perception with Parameter-Efficient Fine-Tuning (*AAAI'25*) [[`pdf`](https://arxiv.org/abs/2502.10705)] [[`code`](https://github.com/fengxueguiren/CoPEFT)] ![](https://img.shields.io/github/stars/fengxueguiren/CoPEFT)
+14.  Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels (*CVPR'25*) [[`pdf`](https://arxiv.org/abs/2503.08421)] [[`code`](https://github.com/xmuqimingxia/DOtA)] ![](https://img.shields.io/github/stars/xmuqimingxia/DOtA)
 
