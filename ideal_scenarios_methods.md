@@ -48,7 +48,8 @@
 | CodeFilling [36]        | CVPR'24    | LiDAR, Camera     | I     | -                 | Feat                | Trad             | -             |      [Linko](https://github.com/PhyllisH/CodeFilling)    |
 | IFTR [37]        | ECCV'24    | Camera     | I     | -                 | Feat                | Atten             | -             |      [Linko](https://github.com/wangsh0111/IFTR)    |
 | VIMI [38]         | ICRA'24   | Camera        | I            | -                 | -                | Atten             | -               | [Linkv](https://github.com/Bosszhe/EMIFF)                            |
-| CPPC [39]         | ICLR'25   | LiDAR        | I            | -                 | Feat               | Trad             | -               |                            |
+| CPPC [39]         | ICLR'25   | LiDAR        | I            | -                 | Feat               | Trad             | -               |             -               |
+| CoSDH [40]         | CVPR'25   | LiDAR        | I, L           | -                 | Feat              | Trad             | -               |       [Linko](https://github.com/Xu2729/CoSDH)            |
 
 
 Note:
@@ -102,6 +103,7 @@ Back to [Contents](README.md) 🔙
 37. IFTR: An Instance-Level Fusion Transformer for Visual Collaborative Perception (ECCV'24) [[`pdf`](https://arxiv.org/abs/2407.09857)] [[`code`](https://github.com/wangsh0111/IFTR)]
 38. EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection (ICRA'24) [[`pdf`](https://arxiv.org/abs/2303.10975)] [[`code`](https://github.com/Bosszhe/EMIFF)]
 39. Point Cluster: A Compact Message Unit for Communication-Efficient Collaborative Perception. (ICLR'25) [[`pdf`](https://openreview.net/forum?id=54XlM8Clkg)]
+40. CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization. (CVPR'25) [[`pdf`](https://arxiv.org/abs/2503.03430)] [[`code`](https://github.com/Xu2729/CoSDH)]
 
 
 
