@@ -41,6 +41,7 @@
 | CP-Guard [29]         | AAAI'25        | LiDAR            | I                    | -                     | -                | -                   | Attack                     | -               |
 | PLDA [30]         | AAAI'25        | LiDAR            | I                    | -                     | -                | Model                   | -                     | -               |
 | BEVSync [31]         | AAAI'25        | LiDAR            | I                    | -                     | Laten                | -                   | -                     | -               |
+| STAMP [32]         | ICLR'25        | LiDAR, Camera          | I                    | -                     | -                | Model, Task             | -                     | [Linko](https://github.com/taco-group/STAMP) ![](https://img.shields.io/github/stars/taco-group/STAMP)              |
 
 
 Notes:
@@ -86,4 +87,5 @@ Back to [Contents](README.md) 🔙
 29. CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird’s Eye View Perception (AAAI'25) [[`pdf`](https://arxiv.org/abs/2412.12000)]
 30. Privacy-Preserving V2X Collaborative Perception Integrating Unknown Collaborators (AAAI'25)
 31. BEVSync: Asynchronous Data Alignment for Camera-based Vehicle-Infrastructure Cooperative Perception Under Uncertain Delays (AAAI'25)
+32. STAMP: Scalable Task And Model-agnostic Collaborative Perception (ICLR'25) [[`pdf`](https://arxiv.org/abs/2501.18616)] [[`code`](https://github.com/taco-group/STAMP)]
 
