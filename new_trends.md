@@ -4,6 +4,7 @@
   - Unsupervised / Self-supervised learning: CO3 [1] , DOtA [14]
   - Weakly / Sparsely supervised learning: SSC3OD [2], CoDTS [11]
   - Domain adaption: S2R-ViT [3], DUSA [4]
+  - Based Others’ Predictions: R&B-POP [17]
 - **Model Adaptation**
   - MACP [5]
   - CoPEFT [13]
@@ -35,4 +36,4 @@
 14.  Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels (*CVPR'25*) [[`pdf`](https://arxiv.org/abs/2503.08421)] [[`code`](https://github.com/xmuqimingxia/DOtA)] ![](https://img.shields.io/github/stars/xmuqimingxia/DOtA)
 15.  V2X-R: Cooperative LiDAR-4D Radar Fusion with Denoising Diffusion for 3D Object Detection (*CVPR'25*) [[`pdf`](https://arxiv.org/abs/2411.08402)] [[`code`](https://github.com/ylwhxht/V2X-R)] ![](https://img.shields.io/github/stars/ylwhxht/V2X-R)
 16.  End-to-End Autonomous Driving through V2X Cooperation (*AAAI'25*) [[`pdf`](https://arxiv.org/abs/2404.00717)] [[`code`](https://github.com/AIR-THU/UniV2X)] ![](https://img.shields.io/github/stars/AIR-THU/UniV2X)
-
+17.  Learning 3D Perception from Others' Predictions (*ICLR'25*) [[`pdf`](https://openreview.net/forum?id=Ylk98vWQuQ)] [[`code`](https://github.com/jinsuyoo/rnb-pop)] ![](https://img.shields.io/github/stars/jinsuyoo/rnb-pop)
