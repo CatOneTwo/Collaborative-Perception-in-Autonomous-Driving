@@ -47,7 +47,8 @@
 | MOT-CUP [35]        | RAL'24    | LiDAR         | E, I, L     | -                 | -                |-             | Uncert             |      [Linkc](https://github.com/susanbao/mot_cup)    |
 | CodeFilling [36]        | CVPR'24    | LiDAR, Camera     | I     | -                 | Feat                | Trad             | -             |      [Linko](https://github.com/PhyllisH/CodeFilling)    |
 | IFTR [37]        | ECCV'24    | Camera     | I     | -                 | Feat                | Atten             | -             |      [Linko](https://github.com/wangsh0111/IFTR)    |
-| VIMI [a1]         | arXiv'23   | Camera        | I            | -                 | -                | Atten             | -               | [Linkv](https://github.com/bosszhe/vimi)                            |
+| VIMI [38]         | ICRA'24   | Camera        | I            | -                 | -                | Atten             | -               | [Linkv](https://github.com/Bosszhe/EMIFF)                            |
+| CPPC [39]         | ICLR'25   | LiDAR        | I            | -                 | Feat               | Trad             | -               |                            |
 
 
 Note:
@@ -99,9 +100,8 @@ Back to [Contents](README.md) 🔙
 35. Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation (RAL'24) [[`pdf`](https://arxiv.org/abs/2303.14346)] [[`code`](https://github.com/susanbao/mot_cup)]
 36. Communication-Efficient Collaborative Perception via Information Filling with Codebook (CVPR'24) [[`pdf`](https://arxiv.org/abs/2405.04966)] [[`code`](https://github.com/PhyllisH/CodeFilling)]
 37. IFTR: An Instance-Level Fusion Transformer for Visual Collaborative Perception (ECCV'24) [[`pdf`](https://arxiv.org/abs/2407.09857)] [[`code`](https://github.com/wangsh0111/IFTR)]
-
-### ArXiv
-1. VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection (arXiv'23) [[`pdf`](https://arxiv.org/abs/2303.10975)] [[`code`](https://github.com/bosszhe/vimi)]
+38. EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection (ICRA'24) [[`pdf`](https://arxiv.org/abs/2303.10975)] [[`code`](https://github.com/Bosszhe/EMIFF)]
+39. Point Cluster: A Compact Message Unit for Communication-Efficient Collaborative Perception. (ICLR'25) [[`pdf`](https://openreview.net/forum?id=54XlM8Clkg)]
 
 
 
