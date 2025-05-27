@@ -38,7 +38,7 @@
 | NEAT [26]             | ECCV'24         | LiDAR            | I                    | Loc, Pos           | Laten               | -                  | -                   |           |
 | V2X-INCOP [27]         | TIV'24        | LiDAR            | I                    | -                     | Inter                | -                   | -                     | -               |
 | MADE [28]         | IROS'24        | LiDAR            | I                    | -                     | -                | -                   | Attack                     | -               |
-| CP-Guard [29]         | AAAI'25        | LiDAR            | I                    | -                     | -                | -                   | Attack                     | -               |
+| CP-Guard [29]         | AAAI'25        | LiDAR            | I                    | -                     | -                | -                   | Attack                     | [Linkc](https://github.com/CP-Security/CP-Guard)          |
 | PLDA [30]         | AAAI'25        | LiDAR            | I                    | -                     | -                | Model                   | -                     | -               |
 | BEVSync [31]         | AAAI'25        | LiDAR            | I                    | -                     | Laten                | -                   | -                     | -               |
 | STAMP [32]         | ICLR'25        | LiDAR, Camera          | I                    | -                     | -                | Model, Task             | -                     | [Linko](https://github.com/taco-group/STAMP)      |
@@ -85,9 +85,9 @@ Back to [Contents](README.md) 🔙
 26. Align before Collaborate: Mitigating Feature Misalignment for Robust Multi-Agent Perception (ECCV'24) [[`pdf`](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00560.pdf)]
 27. Interruption-Aware Cooperative Perception for V2X Communication-Aided Autonomous Driving (TIV'24) [[`pdf`](https://arxiv.org/abs/2304.11821)]
 28. Malicious Agent Detection for Robust Multi-Agent Collaborative Perception (IROS'24) [[`pdf`](https://arxiv.org/abs/2304.11821)]
-29. CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird’s Eye View Perception (AAAI'25) [[`pdf`](https://arxiv.org/abs/2412.12000)]
-30. Privacy-Preserving V2X Collaborative Perception Integrating Unknown Collaborators (AAAI'25)
-31. BEVSync: Asynchronous Data Alignment for Camera-based Vehicle-Infrastructure Cooperative Perception Under Uncertain Delays (AAAI'25)
+29. CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird’s Eye View Perception (AAAI'25) [[`pdf`](https://arxiv.org/abs/2412.12000)] [[`code`](https://github.com/CP-Security/CP-Guard)]
+30. Privacy-Preserving V2X Collaborative Perception Integrating Unknown Collaborators (AAAI'25) [[`pdf`](https://ojs.aaai.org/index.php/AAAI/article/view/32619)]
+31. BEVSync: Asynchronous Data Alignment for Camera-based Vehicle-Infrastructure Cooperative Perception Under Uncertain Delays (AAAI'25) [[`pdf`](https://ojs.aaai.org/index.php/AAAI/article/view/33611)]
 32. STAMP: Scalable Task And Model-agnostic Collaborative Perception (ICLR'25) [[`pdf`](https://arxiv.org/abs/2501.18616)] [[`code`](https://github.com/taco-group/STAMP)]
 33. One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception (CVPR'25) [[`pdf`](https://arxiv.org/abs/2411.16799)] 
 
