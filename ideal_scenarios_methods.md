@@ -50,6 +50,7 @@
 | VIMI [38]         | ICRA'24   | Camera        | I            | -                 | -                | Atten             | -               | [Linkv](https://github.com/Bosszhe/EMIFF)                            |
 | CPPC [39]         | ICLR'25   | LiDAR        | I            | -                 | Feat               | Trad             | -               |             -               |
 | CoSDH [40]         | CVPR'25   | LiDAR        | I, L           | -                 | Feat              | Trad             | -               |       [Linko](https://github.com/Xu2729/CoSDH)            |
+| CoGMP [41]         | CVPR'25   | Camera        | I           | -                 | Feat              | Trad             | -               |    -   |
 
 
 Note:
@@ -104,7 +105,7 @@ Back to [Contents](README.md) 🔙
 38. EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection (ICRA'24) [[`pdf`](https://arxiv.org/abs/2303.10975)] [[`code`](https://github.com/Bosszhe/EMIFF)]
 39. Point Cluster: A Compact Message Unit for Communication-Efficient Collaborative Perception. (ICLR'25) [[`pdf`](https://openreview.net/forum?id=54XlM8Clkg)]
 40. CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization. (CVPR'25) [[`pdf`](https://arxiv.org/abs/2503.03430)] [[`code`](https://github.com/Xu2729/CoSDH)]
-
+41. Generative Map Priors for Collaborative BEV Semantic Segmentation. (CVPR'25) [[`pdf`](https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_Generative_Map_Priors_for_Collaborative_BEV_Semantic_Segmentation_CVPR_2025_paper.pdf)]
 
 
   
