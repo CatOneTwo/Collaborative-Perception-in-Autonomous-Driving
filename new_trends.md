@@ -15,7 +15,7 @@
   - Collaborative Semantic Occupancy Prediction: CoHFF [9]
   - Cooperative Trajectory: V2X-Graph [10]
 - **Extreme Environments**
-  - DSRC [12], MDD [15]
+  - DSRC [12], MDD [15], RCP-Bench [19]
 - **End-to-End Autonomous Driving**
   - UniV2X [16]
 
@@ -38,3 +38,4 @@
 16.  End-to-End Autonomous Driving through V2X Cooperation (*AAAI'25*) [[`pdf`](https://arxiv.org/abs/2404.00717)] [[`code`](https://github.com/AIR-THU/UniV2X)] ![](https://img.shields.io/github/stars/AIR-THU/UniV2X)
 17.  Learning 3D Perception from Others' Predictions (*ICLR'25*) [[`pdf`](https://openreview.net/forum?id=Ylk98vWQuQ)] [[`code`](https://github.com/jinsuyoo/rnb-pop)] ![](https://img.shields.io/github/stars/jinsuyoo/rnb-pop)
 18.  CUDA-X: Unsupervised Domain-Adaptive Vehicle-to-Everything Collaboration via Knowledge Transfer and Alignment (*TNNLS'25*) [[`pdf`](https://ieeexplore.ieee.org/document/10891961)]
+19.  RCP-Bench: Benchmarking Robustness for Collaborative Perception Under Diverse Corruptions (*CVPR'25*) [[`pdf`](https://openaccess.thecvf.com/content/CVPR2025/papers/Du_RCP-Bench_Benchmarking_Robustness_for_Collaborative_Perception_Under_Diverse_Corruptions_CVPR_2025_paper.pdf)] [[`code`](https://github.com/LuckyDush/RCP-Bench)] ![](https://img.shields.io/github/stars/LuckyDush/RCP-Bench)
