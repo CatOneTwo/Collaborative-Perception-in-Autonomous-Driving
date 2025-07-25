@@ -18,7 +18,8 @@
   - DSRC [12], MDD [15], RCP-Bench [19]
 - **End-to-End Autonomous Driving**
   - UniV2X [16]
-
+- **Scene Generation**
+  - TYP [20]
 ## References
 1.  CO3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving (*ICLR'23*) [[`pdf`](https://arxiv.org/abs/2206.04028)] [[`code`](https://github.com/Runjian-Chen/CO3)] ![](https://img.shields.io/github/stars/Runjian-Chen/CO3) 
 2.  SSC3OD: Sparsely Supervised Collaborative 3D Object Detection from LiDAR Point Clouds (*SMC'23*) [[`pdf`](https://arxiv.org/abs/2307.00717)]
@@ -39,3 +40,4 @@
 17.  Learning 3D Perception from Others' Predictions (*ICLR'25*) [[`pdf`](https://openreview.net/forum?id=Ylk98vWQuQ)] [[`code`](https://github.com/jinsuyoo/rnb-pop)] ![](https://img.shields.io/github/stars/jinsuyoo/rnb-pop)
 18.  CUDA-X: Unsupervised Domain-Adaptive Vehicle-to-Everything Collaboration via Knowledge Transfer and Alignment (*TNNLS'25*) [[`pdf`](https://ieeexplore.ieee.org/document/10891961)]
 19.  RCP-Bench: Benchmarking Robustness for Collaborative Perception Under Diverse Corruptions (*CVPR'25*) [[`pdf`](https://openaccess.thecvf.com/content/CVPR2025/papers/Du_RCP-Bench_Benchmarking_Robustness_for_Collaborative_Perception_Under_Diverse_Corruptions_CVPR_2025_paper.pdf)] [[`code`](https://github.com/LuckyDush/RCP-Bench)] ![](https://img.shields.io/github/stars/LuckyDush/RCP-Bench)
+20.  Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene (*CVPR'25*) [[`pdf`](https://arxiv.org/abs/2502.06682)]
