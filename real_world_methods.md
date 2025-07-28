@@ -42,7 +42,8 @@
 | PLDA [30]         | AAAI'25        | LiDAR            | I                    | -                     | -                | Model                   | -                     | -               |
 | BEVSync [31]         | AAAI'25        | LiDAR            | I                    | -                     | Laten                | -                   | -                     | -               |
 | STAMP [32]         | ICLR'25        | LiDAR, Camera          | I                    | -                     | -                | Model, Task             | -                     | [Linko](https://github.com/taco-group/STAMP)      |
-| PolyInter [33]         | CVPR'25        | LiDAR          | I                    | -                     | -                | Model             | -                     | - |
+| PolyInter [33]         | CVPR'25        | LiDAR          | I                    | -                     | -                | Model             | -                     | [Linko](https://github.com/yuchen-xia/PolyInter) |
+| DATA [34]         | ICCV'25        | LiDAR          | I                    | -                     | Laten                | -             | -                     | - |
 
 
 Notes:
@@ -89,5 +90,6 @@ Back to [Contents](README.md) 🔙
 30. Privacy-Preserving V2X Collaborative Perception Integrating Unknown Collaborators (AAAI'25) [[`pdf`](https://ojs.aaai.org/index.php/AAAI/article/view/32619)]
 31. BEVSync: Asynchronous Data Alignment for Camera-based Vehicle-Infrastructure Cooperative Perception Under Uncertain Delays (AAAI'25) [[`pdf`](https://ojs.aaai.org/index.php/AAAI/article/view/33611)]
 32. STAMP: Scalable Task And Model-agnostic Collaborative Perception (ICLR'25) [[`pdf`](https://arxiv.org/abs/2501.18616)] [[`code`](https://github.com/taco-group/STAMP)]
-33. One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception (CVPR'25) [[`pdf`](https://arxiv.org/abs/2411.16799)] 
+33. One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception (CVPR'25) [[`pdf`](https://arxiv.org/abs/2411.16799)] [[`code`](https://github.com/yuchen-xia/PolyInter)]
+34. DATA: Domain-And-Time Alignment for High-Quality Feature Fusion in Collaborative Perception (ICCV'25) [[`pdf`](https://www.arxiv.org/abs/2507.18237)]
 
