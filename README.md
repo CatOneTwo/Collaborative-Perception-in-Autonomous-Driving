@@ -51,7 +51,6 @@ This repo is constructed for collecting and categorizing papers about collaborat
 
 👉 View details in [**New Trends**](new_trends.md)
 
-
 ## Citation
 If you find this work useful, please cite our paper:
 ```
@@ -66,5 +65,6 @@ If you find this work useful, please cite our paper:
   doi={10.1109/MITS.2023.3298534}}
 
 ```
-> Want to add a new paper, share code, or fix incorrect information? Just open an issue — contributions are welcome! You can also submit a pull request directly for faster integration. 😃
+## 🤝 Contribution
+> Want to add a new paper, share code, or fix incorrect information? Just open an issue — contributions are welcome ! You can also submit a pull request directly for faster integration. 😃
 
