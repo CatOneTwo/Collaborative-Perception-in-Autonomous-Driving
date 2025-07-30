@@ -44,6 +44,7 @@
 | STAMP [32]         | ICLR'25        | LiDAR, Camera          | I                    | -                     | -                | Model, Task             | -                     | [Linko](https://github.com/taco-group/STAMP)      |
 | PolyInter [33]         | CVPR'25        | LiDAR          | I                    | -                     | -                | Model             | -                     | [Linko](https://github.com/yuchen-xia/PolyInter) |
 | DATA [34]         | ICCV'25        | LiDAR          | I                    | -                     | Laten                | -             | -                     | - |
+| PB [35]         | ICCV'25        | LiDAR          | I                    | -                     | -                | -             | Attack                     | - |
 
 
 Notes:
@@ -92,4 +93,5 @@ Back to [Contents](README.md) 🔙
 32. STAMP: Scalable Task And Model-agnostic Collaborative Perception (ICLR'25) [[`pdf`](https://arxiv.org/abs/2501.18616)] [[`code`](https://github.com/taco-group/STAMP)]
 33. One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception (CVPR'25) [[`pdf`](https://arxiv.org/abs/2411.16799)] [[`code`](https://github.com/yuchen-xia/PolyInter)]
 34. DATA: Domain-And-Time Alignment for High-Quality Feature Fusion in Collaborative Perception (ICCV'25) [[`pdf`](https://www.arxiv.org/abs/2507.18237)]
+35. Pretend Benign: A Stealthy Adversarial Attack by Exploiting Vulnerabilities in Cooperative Perception (ICCV'25)
 
