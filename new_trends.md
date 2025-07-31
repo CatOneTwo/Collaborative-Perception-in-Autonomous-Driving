@@ -13,11 +13,11 @@
 - **New Perception Tasks**
   - Multi-Object Cooperative Tracking: DMSTrack [7], MOT-CUP [8]
   - Collaborative Semantic Occupancy Prediction: CoHFF [9]
-  - Cooperative Trajectory: V2X-Graph [10]
+  - Cooperative Trajectory: V2X-Graph [10], CoopTrack [21]
 - **Extreme Environments**
   - DSRC [12], MDD [15], RCP-Bench [19]
 - **End-to-End Autonomous Driving**
-  - UniV2X [16]
+  - UniV2X [16]，
 - **Scene Generation**
   - TYP [20]
 ## References
@@ -41,3 +41,4 @@
 18.  CUDA-X: Unsupervised Domain-Adaptive Vehicle-to-Everything Collaboration via Knowledge Transfer and Alignment (*TNNLS'25*) [[`pdf`](https://ieeexplore.ieee.org/document/10891961)]
 19.  RCP-Bench: Benchmarking Robustness for Collaborative Perception Under Diverse Corruptions (*CVPR'25*) [[`pdf`](https://openaccess.thecvf.com/content/CVPR2025/papers/Du_RCP-Bench_Benchmarking_Robustness_for_Collaborative_Perception_Under_Diverse_Corruptions_CVPR_2025_paper.pdf)] [[`code`](https://github.com/LuckyDush/RCP-Bench)] ![](https://img.shields.io/github/stars/LuckyDush/RCP-Bench)
 20.  Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene (*CVPR'25*) [[`pdf`](https://arxiv.org/abs/2502.06682)]
+21.  CoopTrack: Exploring End-to-End Learning for Efficient Cooperative Sequential Perception. (ICCV'25) [[`pdf`](https://www.arxiv.org/abs/2507.19239)] [[`code`](https://github.com/zhongjiaru/CoopTrack)] ![](https://img.shields.io/github/stars/zhongjiaru/CoopTrack)
