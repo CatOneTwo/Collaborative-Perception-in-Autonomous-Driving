@@ -51,8 +51,6 @@
 | CPPC [39]         | ICLR'25   | LiDAR        | I            | -                 | Feat               | Trad             | -               |             -               |
 | CoSDH [40]         | CVPR'25   | LiDAR        | I, L           | -                 | Feat              | Trad             | -               |       [Linko](https://github.com/Xu2729/CoSDH)            |
 | CoGMP [41]         | CVPR'25   | Camera        | I           | -                 | Feat              | Trad             | -               |    -   |
-| CoopTrack [42]         | ICCV'25   | LiDAR        | I           | -                 | Feat              | Graph             | -               |   [Linkv](https://github.com/zhongjiaru/CoopTrack)   |
-
 
 Note:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -107,7 +105,5 @@ Back to [Contents](README.md) 🔙
 39. Point Cluster: A Compact Message Unit for Communication-Efficient Collaborative Perception. (ICLR'25) [[`pdf`](https://openreview.net/forum?id=54XlM8Clkg)]
 40. CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization. (CVPR'25) [[`pdf`](https://arxiv.org/abs/2503.03430)] [[`code`](https://github.com/Xu2729/CoSDH)]
 41. Generative Map Priors for Collaborative BEV Semantic Segmentation. (CVPR'25) [[`pdf`](https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_Generative_Map_Priors_for_Collaborative_BEV_Semantic_Segmentation_CVPR_2025_paper.pdf)]
-42. CoopTrack: Exploring End-to-End Learning for Efficient Cooperative Sequential Perception. (ICCV'25) [[`pdf`](https://www.arxiv.org/abs/2507.19239)] [[`code`](https://github.com/zhongjiaru/CoopTrack)]
-
 
   
