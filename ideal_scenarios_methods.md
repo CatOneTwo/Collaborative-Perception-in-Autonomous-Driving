@@ -51,6 +51,7 @@
 | CPPC [39]         | ICLR'25   | LiDAR        | I            | -                 | Feat               | Trad             | -               |             -               |
 | CoSDH [40]         | CVPR'25   | LiDAR        | I, L           | -                 | Feat              | Trad             | -               |       [Linko](https://github.com/Xu2729/CoSDH)            |
 | CoGMP [41]         | CVPR'25   | Camera        | I           | -                 | Feat              | Trad             | -               |    -   |
+| CoST [42]         | ICCV'25   | LiDAR        | I           | -                 | Feat              | Atten (ST)             | -               |    -   |
 
 Note:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -102,8 +103,9 @@ Back to [Contents](README.md) 🔙
 36. Communication-Efficient Collaborative Perception via Information Filling with Codebook (CVPR'24) [[`pdf`](https://arxiv.org/abs/2405.04966)] [[`code`](https://github.com/PhyllisH/CodeFilling)]
 37. IFTR: An Instance-Level Fusion Transformer for Visual Collaborative Perception (ECCV'24) [[`pdf`](https://arxiv.org/abs/2407.09857)] [[`code`](https://github.com/wangsh0111/IFTR)]
 38. EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection (ICRA'24) [[`pdf`](https://arxiv.org/pdf/2402.15272)] [[`code`](https://github.com/Bosszhe/EMIFF)]
-39. Point Cluster: A Compact Message Unit for Communication-Efficient Collaborative Perception. (ICLR'25) [[`pdf`](https://openreview.net/forum?id=54XlM8Clkg)]
-40. CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization. (CVPR'25) [[`pdf`](https://arxiv.org/abs/2503.03430)] [[`code`](https://github.com/Xu2729/CoSDH)]
-41. Generative Map Priors for Collaborative BEV Semantic Segmentation. (CVPR'25) [[`pdf`](https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_Generative_Map_Priors_for_Collaborative_BEV_Semantic_Segmentation_CVPR_2025_paper.pdf)]
+39. Point Cluster: A Compact Message Unit for Communication-Efficient Collaborative Perception (ICLR'25) [[`pdf`](https://openreview.net/forum?id=54XlM8Clkg)]
+40. CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization (CVPR'25) [[`pdf`](https://arxiv.org/abs/2503.03430)] [[`code`](https://github.com/Xu2729/CoSDH)]
+41. Generative Map Priors for Collaborative BEV Semantic Segmentation (CVPR'25) [[`pdf`](https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_Generative_Map_Priors_for_Collaborative_BEV_Semantic_Segmentation_CVPR_2025_paper.pdf)]
+42. CoST: Efficient Collaborative Perception From Unified Spatiotemporal Perspective (ICCV'25) [[`pdf`](https://arxiv.org/abs/2508.00359)]
 
   
