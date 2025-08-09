@@ -1,7 +1,7 @@
-
+ 
 ## New Trends
 - **Label Efficient**
-  - Unsupervised / Self-supervised learning: CO3 [1] , DOtA [14]
+  - Unsupervised / Self-supervised learning: CO3 [1], DOtA [14], CooPre [22], TurboTrain [24]
   - Weakly / Sparsely supervised learning: SSC3OD [2], CoDTS [11]
   - Domain adaption: S2R-ViT [3], DUSA [4], CUDA-X [18]
   - Based Others’ Predictions: R&B-POP [17]
@@ -19,7 +19,7 @@
 - **End-to-End Autonomous Driving**
   - UniV2X [16]，
 - **Scene Generation**
-  - TYP [20]
+  - TYP [20], CRUISE [23]
 ## References
 1.  CO3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving (*ICLR'23*) [[`pdf`](https://arxiv.org/abs/2206.04028)] [[`code`](https://github.com/Runjian-Chen/CO3)] ![](https://img.shields.io/github/stars/Runjian-Chen/CO3) 
 2.  SSC3OD: Sparsely Supervised Collaborative 3D Object Detection from LiDAR Point Clouds (*SMC'23*) [[`pdf`](https://arxiv.org/abs/2307.00717)]
@@ -41,4 +41,7 @@
 18.  CUDA-X: Unsupervised Domain-Adaptive Vehicle-to-Everything Collaboration via Knowledge Transfer and Alignment (*TNNLS'25*) [[`pdf`](https://ieeexplore.ieee.org/document/10891961)]
 19.  RCP-Bench: Benchmarking Robustness for Collaborative Perception Under Diverse Corruptions (*CVPR'25*) [[`pdf`](https://openaccess.thecvf.com/content/CVPR2025/papers/Du_RCP-Bench_Benchmarking_Robustness_for_Collaborative_Perception_Under_Diverse_Corruptions_CVPR_2025_paper.pdf)] [[`code`](https://github.com/LuckyDush/RCP-Bench)] ![](https://img.shields.io/github/stars/LuckyDush/RCP-Bench)
 20.  Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene (*CVPR'25*) [[`pdf`](https://arxiv.org/abs/2502.06682)]
-21.  CoopTrack: Exploring End-to-End Learning for Efficient Cooperative Sequential Perception. (ICCV'25) [[`pdf`](https://www.arxiv.org/abs/2507.19239)] [[`code`](https://github.com/zhongjiaru/CoopTrack)] ![](https://img.shields.io/github/stars/zhongjiaru/CoopTrack)
+21.  CoopTrack: Exploring End-to-End Learning for Efficient Cooperative Sequential Perception (ICCV'25) [[`pdf`](https://www.arxiv.org/abs/2507.19239)] [[`code`](https://github.com/zhongjiaru/CoopTrack)] ![](https://img.shields.io/github/stars/zhongjiaru/CoopTrack)
+22.  CooPre: Cooperative Pretraining for V2X Cooperative Perception (IROS'25) [[`pdf`](https://arxiv.org/abs/2408.11241)] [[`code`](https://github.com/ucla-mobility/CooPre)] ![](https://img.shields.io/github/stars/ucla-mobility/CooPre)
+23.  CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting (IROS'25) [[`pdf`](https://www.arxiv.org/abs/2507.18473)] [[`code`](https://github.com/SainingZhang/CRUISE)] ![](https://github.com/SainingZhang/CRUISE) ![](https://img.shields.io/github/stars/SainingZhang/CRUISE)
+24.  TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction (ICCV'25) [[`pdf`](https://www.arxiv.org/abs/2508.04682)] [[`code`](https://github.com/ucla-mobility/TurboTrain)] ![](https://img.shields.io/github/stars/ucla-mobility/TurboTrain)
