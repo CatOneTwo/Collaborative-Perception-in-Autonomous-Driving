@@ -52,6 +52,7 @@
 | CoSDH [40]         | CVPR'25   | LiDAR        | I, L           | -                 | Feat              | Trad             | -               |       [Linko](https://github.com/Xu2729/CoSDH)            |
 | CoGMP [41]         | CVPR'25   | Camera        | I           | -                 | Feat              | Trad             | -               |    -   |
 | CoST [42]         | ICCV'25   | LiDAR        | I           | -                 | Feat              | Atten (ST)             | -               |    -   |
+| V2XPnP [43]         | ICCV'25   | LiDAR        | I           | -                 | Feat              | Atten (ST)             | -               |  [Linko](https://github.com/Zewei-Zhou/V2XPnP) |
 
 Note:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -107,5 +108,6 @@ Back to [Contents](README.md) 🔙
 40. CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization (CVPR'25) [[`pdf`](https://arxiv.org/abs/2503.03430)] [[`code`](https://github.com/Xu2729/CoSDH)]
 41. Generative Map Priors for Collaborative BEV Semantic Segmentation (CVPR'25) [[`pdf`](https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_Generative_Map_Priors_for_Collaborative_BEV_Semantic_Segmentation_CVPR_2025_paper.pdf)]
 42. CoST: Efficient Collaborative Perception From Unified Spatiotemporal Perspective (ICCV'25) [[`pdf`](https://arxiv.org/abs/2508.00359)]
+43. V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction (ICCV'25) [[`pdf`](https://arxiv.org/abs/2412.01812)] [[`code`](https://github.com/Zewei-Zhou/V2XPnP)]
 
   
