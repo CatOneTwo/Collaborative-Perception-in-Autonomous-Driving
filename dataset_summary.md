@@ -20,10 +20,12 @@
 | R-Cooper [12] | CVPR'24  | Real       | 30K       | -             | - |  &#10004;    | 2        | &#10004;   | &#10004;  | -         |  &#10004; |  -       |  &#10004; |  - | [Link](https://tum-traffic-dataset.github.io/tumtraf-v2x/)    |
 | MARS [13] | CVPR'24  | Real       | 1.5k     | &#10004;           | - |  -    |2-3        | &#10004;   | &#10004;  | -         |  -|  -       |-|  - | [Link](https://ai4ce.github.io/MARS/)    |
 | V2X-Real [14] | ECCV'24  | Real       | 33k     | &#10004;           | &#10004;  |  &#10004;   |2-4        | &#10004;   | &#10004;  | -    |  &#10004; |  -       |-|  - | [Link](https://github.com/ucla-mobility/V2X-Real)    |
+| V2XPnP [15] | ICCV'25  | Real       | 44k     | &#10004;           | &#10004;  |  &#10004;   |2-4        | &#10004;   | &#10004;  | -    |  &#10004; |  -       |&#10004;|  &#10004; | [Link](https://mobility-lab.seas.ucla.edu/v2xpnp/)    |
+
 
 Notes:
 - Source: simulator (Simu) and real-world (Real).
-- Frame refers to annotated LiDAR-based cooperative perception frame number.
+- Frame refers to the annotated LiDAR-based cooperative perception frame number.
 - Supported common perception tasks: 3D object detection (OD), BEV semantic segmentation (SS), 3D object tracking (OT), motion prediction (MP).
 
 
@@ -44,4 +46,5 @@ References:
 12. [RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception](https://arxiv.org/abs/2403.10145) (CVPR'24)
 13. [Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Multiagent_Multitraversal_Multimodal_Self-Driving_Open_MARS_Dataset_CVPR_2024_paper.pdf) (CVPR'24)
 14. [V2X-Real: a Largs-Scale Dataset for Vehicle-to-Everything Cooperative Perception](https://arxiv.org/abs/2403.16034) (ECCV'24)
+15. [V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction](https://arxiv.org/abs/2412.01812) (ICCV'25)
    
