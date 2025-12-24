@@ -3,7 +3,7 @@
 - **Label Efficient**
   - Unsupervised / Self-supervised learning: CO3 [1], DOtA [14], CooPre [22], TurboTrain [24]
   - Weakly / Sparsely supervised learning: SSC3OD [2], CoDTS [11]
-  - Domain adaption: S2R-ViT [3], DUSA [4], CUDA-X [18]
+  - Domain adaption: S2R-ViT [3], DUSA [4], CUDA-X [18], Selective Shift [25]
   - Based Others’ Predictions: R&B-POP [17]
 - **Model Adaptation**
   - MACP [5]
@@ -13,11 +13,11 @@
 - **New Perception Tasks**
   - Multi-Object Cooperative Tracking: DMSTrack [7], MOT-CUP [8]
   - Collaborative Semantic Occupancy Prediction: CoHFF [9]
-  - Cooperative Trajectory: V2X-Graph [10], CoopTrack [21]
+  - Cooperative Trajectory: V2X-Graph [10], CoopTrack [21], ViTraj [26]
 - **Extreme Environments**
   - DSRC [12], MDD [15], RCP-Bench [19]
 - **End-to-End Autonomous Driving**
-  - UniV2X [16]，
+  - UniV2X [16]，UniMM-V2X [27]
 - **Scene Generation**
   - TYP [20], CRUISE [23]
 ## References
@@ -45,3 +45,6 @@
 22.  CooPre: Cooperative Pretraining for V2X Cooperative Perception (IROS'25) [[`pdf`](https://arxiv.org/abs/2408.11241)] [[`code`](https://github.com/ucla-mobility/CooPre)] ![](https://img.shields.io/github/stars/ucla-mobility/CooPre)
 23.  CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting (IROS'25) [[`pdf`](https://www.arxiv.org/abs/2507.18473)] [[`code`](https://github.com/SainingZhang/CRUISE)] ![](https://github.com/SainingZhang/CRUISE) ![](https://img.shields.io/github/stars/SainingZhang/CRUISE)
 24.  TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction (ICCV'25) [[`pdf`](https://www.arxiv.org/abs/2508.04682)] [[`code`](https://github.com/ucla-mobility/TurboTrain)] ![](https://img.shields.io/github/stars/ucla-mobility/TurboTrain)
+25.  Selective Shift: Towards Personalized Domain Adaptation in Multi-Agent Collaborative Perception (MM'25) [[`pdf`](https://dl.acm.org/doi/10.1145/3746027.3754723)]
+26.  ViTraj: Learning Dual-Side Representations for Vehicle-Infrastructure Cooperative Trajectory Prediction (MM'25) [[`pdf`](https://dl.acm.org/doi/10.1145/3746027.3755295)]
+27.  UniMM-V2X: MoE-Enhanced Multi-Level Fusion for End-to-End Cooperative Autonomous Driving (AAAI'26) [[`pdf`](https://arxiv.org/abs/2511.09013)] [[`code`](https://github.com/Souig/UniMM-V2X)] ![](https://img.shields.io/github/stars/Souig/UniMM-V2X)
