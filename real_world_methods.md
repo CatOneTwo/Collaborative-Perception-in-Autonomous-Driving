@@ -45,7 +45,8 @@
 | PolyInter [33]         | CVPR'25        | LiDAR          | I                    | -                     | -                | Model             | -                     | [Linko](https://github.com/yuchen-xia/PolyInter) |
 | DATA [34]         | ICCV'25        | LiDAR          | I                    | -                     | Laten                | -             | -                     | - |
 | PB [35]         | ICCV'25        | LiDAR          | I                    | -                     | -                | -             | Attack                     | - |
-
+| NegoCollab [36]         | NeurIPS'25        | LiDAR          | I                    | -                     | -                | Model            | -                     | - |
+| GenComm [37]         | NeurIPS'25        | LiDAR          | I                    | -                     | -                | Model            | -                     | [Linko](https://github.com/jeffreychou777/GenComm) |
 
 Notes:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -94,4 +95,6 @@ Back to [Contents](README.md) 🔙
 33. One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception (CVPR'25) [[`pdf`](https://arxiv.org/abs/2411.16799)] [[`code`](https://github.com/yuchen-xia/PolyInter)]
 34. DATA: Domain-And-Time Alignment for High-Quality Feature Fusion in Collaborative Perception (ICCV'25) [[`pdf`](https://www.arxiv.org/abs/2507.18237)]
 35. Pretend Benign: A Stealthy Adversarial Attack by Exploiting Vulnerabilities in Cooperative Perception (ICCV'25)
+36. NegoCollab: A Common Representation Negotiation Approach for Heterogeneous Collaborative Perception (NeurIPS'25) [[`pdf`](https://arxiv.org/abs/2510.27647)]
+37. Pragmatic Heterogeneous Collaborative Perception via Generative Communication Mechanism (NeurIPS'25) [[`pdf`](https://arxiv.org/abs/2510.19618)] [[`code`](https://github.com/jeffreychou777/GenComm)]
 
