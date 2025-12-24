@@ -55,6 +55,7 @@
 | V2XPnP [43]         | ICCV'25   | LiDAR        | I           | -                 | Feat              | Atten (ST)             | -               |  [Linko](https://github.com/Zewei-Zhou/V2XPnP) |
 | mmCooper [44]         | ICCV'25   | LiDAR        | I, L           | -                 | Feat              | Atten             | -               |  [Linko](https://github.com/tengjjj/mmCooper) |
 | GSCOOP [45]         | ICCV'25   | Camera        | I           | -                 |   Gaussian       |Trad              | -               |  - |
+| RayFusion [46]         | NeurIPS'25   | Camera        | I           | -                 |  Feat+Ray       |Trad              | -               |  - |
 
 
 Note:
@@ -114,5 +115,6 @@ Back to [Contents](README.md) 🔙
 43. V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction (ICCV'25) [[`pdf`](https://arxiv.org/abs/2412.01812)] [[`code`](https://github.com/Zewei-Zhou/V2XPnP)]
 44. mmCooper: A Multi-agent Multi-stage Communication-efficient and Collaboration-robust Cooperative Perception Framework (ICCV'25) [[`pdf`](https://arxiv.org/abs/2501.12263)] [[`code`](https://github.com/tengjjj/mmCooper)]
 45. Communication-Efficient Multi-Vehicle Collaborative Semantic Segmentation via Sparse 3D Gaussian Sharing (ICCV'25) [[`pdf`](https://openaccess.thecvf.com/content/ICCV2025/papers/Hong_Communication-Efficient_Multi-Vehicle_Collaborative_Semantic_Segmentation_via_Sparse_3D_Gaussian_Sharing_ICCV_2025_paper.pdf)]
+46. RayFusion: Ray Fusion Enhanced Collaborative Visual Perception (NeurIPS'25)  [[`pdf`](https://arxiv.org/abs/2510.08017)]
 
   
