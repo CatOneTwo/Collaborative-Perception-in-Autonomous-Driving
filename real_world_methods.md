@@ -49,7 +49,8 @@
 | GenComm [37]         | NeurIPS'25        | LiDAR          | I                    | -                     | -                | Model            | -                     | [Linko](https://github.com/jeffreychou777/GenComm) |
 | BadMDA [38]         | MM'25        | LiDAR          | I                    | -                     | -                | -            | Attack                    | - |
 | CoDS [39]         | TMC'25        | LiDAR          | I                    | -                     | -                | Model            | -                    | - |
-| V2VLoc [40]         | AAAI'25        | LiDAR          | I                    | GNSS-Free          | -                | -            | -                    | - |
+| V2VLoc [40]         | AAAI'26        | LiDAR          | I                    | GNSS-Free          | -                | -            | -                    | - |
+| CoRA [41]         | AAAI'26        | LiDAR          | I, L                    | Loc,Pos          | -                | -            | -                    | - |
 
 Notes:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -102,5 +103,6 @@ Back to [Contents](README.md) 🔙
 37. Pragmatic Heterogeneous Collaborative Perception via Generative Communication Mechanism (NeurIPS'25) [[`pdf`](https://arxiv.org/abs/2510.19618)] [[`code`](https://github.com/jeffreychou777/GenComm)]
 38. BadMDA: Towards Backdoor Injection during Domain Adaptation to Collapse Multi-Agent Perception (MM'25) [[`pdf`](https://dl.acm.org/doi/10.1145/3746027.3754780)]
 39. CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation (TMC'25) [[`pdf`](https://arxiv.org/abs/2510.13432)]
-40. V2VLoc: Robust GNSS-Free Collaborative Perception via LiDAR Localization (AAAI'25) [[`pdf`](https://arxiv.org/abs/2511.14247)]
+40. V2VLoc: Robust GNSS-Free Collaborative Perception via LiDAR Localization (AAAI'26) [[`pdf`](https://arxiv.org/abs/2511.14247)]
+41. CoRA: A Collaborative Robust Architecture with Hybrid Fusion for Efficient Perception (AAAI'26) [[`pdf`](https://arxiv.org/abs/2512.13191)]
 
