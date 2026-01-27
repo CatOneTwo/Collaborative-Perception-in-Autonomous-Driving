@@ -58,6 +58,9 @@
 | RayFusion [46]         | NeurIPS'25   | Camera        | I           | -                 |  Feat+Ray       |Trad              | -               |  - |
 | InfoCom [47]         | AAAI'25   | LiDAR        | I           | -                 |  Feat      |Trad              | -               |  - |
 | SparseCoop [48]         | AAAI'25   | Camera        | I           | -                 |  Feat       |Atten (ST)              | -               |  - |
+| CooperTrim [49]         | ICLR'26   | LiDAR, Camera        | I           | -                 |  Feat       |Atten              | -               |  - |
+| RDcomm [50]         | ICLR'26   | LiDAR, Camera        | I           | -                 |  Feat       |Trad              | -               |  - |
+| SiMO [51]         | ICLR'26   | LiDAR + Camera        | I           | -                 |  -      |Atten              | -               |  - |
 
 
 
@@ -121,5 +124,8 @@ Back to [Contents](README.md) 🔙
 46. RayFusion: Ray Fusion Enhanced Collaborative Visual Perception (NeurIPS'25)  [[`pdf`](https://arxiv.org/abs/2510.08017)]
 47. InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck (AAAI'26) [[`pdf`](https://arxiv.org/abs/2512.10305)]
 48. SparseCoop: Cooperative Perception with Kinematic-Grounded Queries (AAAI'26) [[`pdf`](https://www.arxiv.org/abs/2512.06838)]
+49. CooperTrim: Adaptive Data Selection for Uncertainty-Aware Cooperative Perception (ICLR'26)
+50. Rate-Distortion Optimized Communication for Collaborative Perception (ICLR'26)
+51. SiMO: Single-Modality-Operable Multimodal Collaborative Perception (ICLR'26)
 
   
