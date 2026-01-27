@@ -51,6 +51,7 @@
 | CoDS [39]         | TMC'25        | LiDAR          | I                    | -                     | -                | Model            | -                    | - |
 | V2VLoc [40]         | AAAI'26        | LiDAR          | I                    | GNSS-Free          | -                | -            | -                    | - |
 | CoRA [41]         | AAAI'26        | LiDAR          | I, L                    | Loc,Pos          | -                | -            | -                    | - |
+| GT-Space [42]         | ICLR'26        | LiDAR, Camera          | I                    | -          | -                | Model            | -                    | - |
 
 Notes:
 - Schemes include early (E), intermediate (I) and late (L) collaboration.
@@ -105,4 +106,5 @@ Back to [Contents](README.md) 🔙
 39. CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation (TMC'25) [[`pdf`](https://arxiv.org/abs/2510.13432)]
 40. V2VLoc: Robust GNSS-Free Collaborative Perception via LiDAR Localization (AAAI'26) [[`pdf`](https://arxiv.org/abs/2511.14247)]
 41. CoRA: A Collaborative Robust Architecture with Hybrid Fusion for Efficient Perception (AAAI'26) [[`pdf`](https://arxiv.org/abs/2512.13191)]
+42. GT-Space: Enhancing Heterogeneous Collaborative Perception with Ground Truth Feature Space (ICLR'26)
 
