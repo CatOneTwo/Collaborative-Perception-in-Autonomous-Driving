@@ -58,9 +58,11 @@
 | RayFusion [46]         | NeurIPS'25   | Camera        | I           | -                 |  Feat+Ray       |Trad              | -               |  - |
 | InfoCom [47]         | AAAI'26   | LiDAR        | I           | -                 |  Feat      |Trad              | -               |  - |
 | SparseCoop [48]         | AAAI'26   | Camera        | I           | -                 |  Feat       |Atten (ST)              | -               |  - |
-| CooperTrim [49]         | ICLR'26   | LiDAR, Camera        | I           | -                 |  Feat       |Atten              | -               |  - |
-| RDcomm [50]         | ICLR'26   | LiDAR, Camera        | I           | -                 |  Feat       |Trad              | -               |  - |
-| SiMO [51]         | ICLR'26   | LiDAR + Camera        | I           | -                 |  -      |Atten              | -               |  - |
+| ZeRCP [49]         | AAAI'26   | Camera        | I           | -                 |  Feat       |Atten (ST)              | -               |  - |
+| DiGS-CP [50]         | AAAI'26   | LiDAR        | I           | -                 |  Feat       |Atten (ST)              | -               |  [Linko](https://github.com/gkx7w/DiGS-CP) |
+| CooperTrim [51]         | ICLR'26   | LiDAR, Camera        | I           | -                 |  Feat       |Atten              | -               |  - |
+| RDcomm [52]         | ICLR'26   | LiDAR, Camera        | I           | -                 |  Feat       |Trad              | -               |  - |
+| SiMO [53]         | ICLR'26   | LiDAR + Camera        | I           | -                 |  -      |Atten              | -               |   [Linko](https://github.com/dempsey-wen/SiMO)] |
 
 
 
@@ -124,8 +126,10 @@ Back to [Contents](README.md) 🔙
 46. RayFusion: Ray Fusion Enhanced Collaborative Visual Perception (NeurIPS'25)  [[`pdf`](https://arxiv.org/abs/2510.08017)]
 47. InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck (AAAI'26) [[`pdf`](https://arxiv.org/abs/2512.10305)]
 48. SparseCoop: Cooperative Perception with Kinematic-Grounded Queries (AAAI'26) [[`pdf`](https://www.arxiv.org/abs/2512.06838)]
-49. CooperTrim: Adaptive Data Selection for Uncertainty-Aware Cooperative Perception (ICLR'26)
-50. Rate-Distortion Optimized Communication for Collaborative Perception (ICLR'26)
-51. SiMO: Single-Modality-Operable Multimodal Collaborative Perception (ICLR'26)
+49. ZeRCP: Towards Communication-Efficient Collaborative Perception and Future Scene Prediction via Request-Free Spatial Filtering (AAAI'26) [[`pdf`](https://ojs.aaai.org/index.php/AAAI/article/view/40178)]
+50. From Discriminative to Generative: A Diffusion-Based Paradigm for Multi-Agent Collaborative Perception (AAAI'26) [[`pdf`](https://ojs.aaai.org/index.php/AAAI/article/view/42423)] [[`code`](https://github.com/gkx7w/DiGS-CP)]
+51. CooperTrim: Adaptive Data Selection for Uncertainty-Aware Cooperative Perception (ICLR'26) [[`pdf`](https://arxiv.org/abs/2602.13287)]
+52. Rate-Distortion Optimized Communication for Collaborative Perception (ICLR'26) [[`pdf`](https://arxiv.org/abs/2509.21994)]
+53. SiMO: Single-Modality-Operable Multimodal Collaborative Perception (ICLR'26) [[`pdf`](https://arxiv.org/abs/2603.08240)] [[`code`](https://github.com/dempsey-wen/SiMO)]
 
   
