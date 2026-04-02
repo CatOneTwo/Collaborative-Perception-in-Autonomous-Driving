@@ -56,8 +56,8 @@
 | mmCooper [44]         | ICCV'25   | LiDAR        | I, L           | -                 | Feat              | Atten             | -               |  [Linko](https://github.com/tengjjj/mmCooper) |
 | GSCOOP [45]         | ICCV'25   | Camera        | I           | -                 |   Gaussian       |Trad              | -               |  - |
 | RayFusion [46]         | NeurIPS'25   | Camera        | I           | -                 |  Feat+Ray       |Trad              | -               |  - |
-| InfoCom [47]         | AAAI'25   | LiDAR        | I           | -                 |  Feat      |Trad              | -               |  - |
-| SparseCoop [48]         | AAAI'25   | Camera        | I           | -                 |  Feat       |Atten (ST)              | -               |  - |
+| InfoCom [47]         | AAAI'26   | LiDAR        | I           | -                 |  Feat      |Trad              | -               |  - |
+| SparseCoop [48]         | AAAI'26   | Camera        | I           | -                 |  Feat       |Atten (ST)              | -               |  - |
 | CooperTrim [49]         | ICLR'26   | LiDAR, Camera        | I           | -                 |  Feat       |Atten              | -               |  - |
 | RDcomm [50]         | ICLR'26   | LiDAR, Camera        | I           | -                 |  Feat       |Trad              | -               |  - |
 | SiMO [51]         | ICLR'26   | LiDAR + Camera        | I           | -                 |  -      |Atten              | -               |  - |
