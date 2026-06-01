@@ -2,7 +2,7 @@
 ## New Trends
 - **Label Efficient**
   - Unsupervised / Self-supervised learning: CO3 [1], DOtA [14], CooPre [22], TurboTrain [24]
-  - Weakly / Sparsely supervised learning: SSC3OD [2], CoDTS [11]
+  - Weakly / Sparsely supervised learning: SSC3OD [2], CoDTS [11], CoSA-3D [28]
   - Domain adaption: S2R-ViT [3], DUSA [4], CUDA-X [18], Selective Shift [25]
   - Based Others’ Predictions: R&B-POP [17]
 - **Model Adaptation**
@@ -48,3 +48,4 @@
 25.  Selective Shift: Towards Personalized Domain Adaptation in Multi-Agent Collaborative Perception (MM'25) [[`pdf`](https://dl.acm.org/doi/10.1145/3746027.3754723)]
 26.  ViTraj: Learning Dual-Side Representations for Vehicle-Infrastructure Cooperative Trajectory Prediction (MM'25) [[`pdf`](https://dl.acm.org/doi/10.1145/3746027.3755295)]
 27.  UniMM-V2X: MoE-Enhanced Multi-Level Fusion for End-to-End Cooperative Autonomous Driving (AAAI'26) [[`pdf`](https://arxiv.org/abs/2511.09013)] [[`code`](https://github.com/Souig/UniMM-V2X)] ![](https://img.shields.io/github/stars/Souig/UniMM-V2X)
+28.  CoSA-3D: Vision-Only Automatic 3D Annotation for Cooperative Perception (CVPRW'26) [[`pdf`]([https://arxiv.org/abs/2511.09013](https://openaccess.thecvf.com/content/CVPR2026W/MEIS/papers/Lu_CoSA-3D_Vision-Only_Automatic_3D_Annotation_for_Cooperative_Perception_CVPRW_2026_paper.pdf))]
